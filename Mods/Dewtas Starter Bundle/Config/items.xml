@@ -1,0 +1,36 @@
+<configs>
+	<append xpath="/items">
+		<!-- CUSTOMIZATION  INSTRUCTIONS -->
+		<!-- To add new items to the starter bundle, go to your 7 days to die folder and go to Data/Config and open Items.xml (If you are adding blocks open blocks.xml, it works the same way.)
+			 Towards the bottom of this block of xml code, you will see 'Property class="Action0"' locate "Create_Item" in that section. In the value, names are seperated by a single comma 
+			 and no spaces, so it must look exactly as it does now. If you want to find the codename of a specific item in game you can search the items or blocks xml file or you can load 
+			 the creative menu ingame and when you hover over and item it will display the code name under the item name. To add a new entry, add a comma and then the item code name e.g.
+			 "meleeToolShovelT0StoneShovel,NewItemCodename". Okay now that thats down, locate the "Create_item_count" line in the same 'Action0' section as before, each value seperated by a comma
+			 is in the amount of items in the exact order for each item. So 5 in the first value is for 'medicalBandage'. The 2 is for medicalSplint. It just corresponds to the order they are listed
+			 in the 'Create_item' line. If you have any questions about this you can always contact me in my discord server! :) https://discord.gg/mYzNKc8e3z -->
+
+
+		<!-- NOTE: If you would like to change the localization and naming for the starter bundle, it is located in 'Localization.txt'. Make sure to restart the game for this to take effect. -->
+		<item name="StarterBundle">
+			<property name="CreativeMode" value="Player"/>
+			<property name="DescriptionKey" value="StarterBundleDesc"/>
+			<property name="ItemTypeIcon" value="bundle"/>
+			<property name="CustomIcon" value="cntGarageStorage"/><property name="CustomIconTint" value="0, 150, 82"/>
+			<property name="HoldType" value="45"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+			<property name="Material" value="Mmetal"/>
+			<property name="Stacknumber" value="1"/>
+			<property name="Weight" value="0"/>
+			<property name="SellableToTrader" value="false"/>
+			<property name="Group" value="Special Items"/>
+			<property class="Action0">
+				<property name="Class" value="OpenBundle"/>
+				<property name="Delay" value="0"/>
+				<property name="Use_time" value="0"/>
+				<property name="Create_item" value="medicalBandage,medicalSplint,drinkJarPureMineralWater,foodSteakAndPotato,meleeToolRepairT0StoneAxe,meleeToolShovelT0StoneShovel,resourceRepairKit,resourceLockPick,drinkCanMegaCrush"/>
+				<property name="Create_item_count" value="5,2,3,3,1,1,5,10,3"/>
+			</property>
+		</item>
+	</append>
+</configs>

@@ -1,0 +1,5 @@
+<configs>
+    <append xpath="/progression/attributes/attribute[@name='attPerception']/effect_group" >
+        <passive_effect name="LootDropProb" operation="perc_add" level="0,10" value="3" />
+    </append>
+</configs>

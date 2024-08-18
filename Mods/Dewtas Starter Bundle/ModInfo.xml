@@ -1,0 +1,8 @@
+<xml>
+	<Name value="DewtasStarterBundle" />
+	<DisplayName value="Dewtas Starter Bundle" />
+	<Description value="Adds a new player starter bundle on entering a new game. Works Serverside Only. Please refer to the items.xml for documentation." />
+	<Author value="Dewta" />
+	<Version value="1.0" />
+	<Website value="https://discord.gg/mYzNKc8e3z" />
+</xml>

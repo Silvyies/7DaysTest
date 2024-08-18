@@ -1,0 +1,9 @@
+<xml>
+    <Name value="DewtasAutoClosingDoors" />
+    <DisplayName value="Dewtas Auto Closing Doors" />
+    <Description value="Doors now auto close after you open them. The folder in this director has a config.json
+    file that has whether the mod is enabled, and the time(in seconds) you want the door to auto close afer." />
+    <Author value="Dewta" />
+    <Version value="1.11" />
+    <Website value="" />
+</xml>

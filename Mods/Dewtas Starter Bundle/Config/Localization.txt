@@ -1,0 +1,3 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+StarterBundle,items,Item,,,"Starter Bundle",,
+StarterBundleDesc,items,Item,,,"Starting Bundle",,

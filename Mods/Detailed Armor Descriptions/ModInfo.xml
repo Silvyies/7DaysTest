@@ -1,0 +1,7 @@
+<xml>
+	<Name value="LF-DetailedArmorDesc" />
+	<DisplayName value="Detailed Armor Descriptions"/>
+	<Description value="Shows the values of armor bonuses in the description." />
+	<Author value="Lord_Fribby" />
+	<Version value="1.2" />
+</xml>
