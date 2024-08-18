@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <Name value="NED_2_Optional_Gates_Clean"/>
+    <DisplayName value="Not Enough Doors - Optional (Clean Gates)"/>
+    <Version value="1.1.0"/> 
+    <Description value="Adds clean (non-barricaded) versions of all gates with such barricades when full health."/>
+    <Author value="PaperSama0104"/>
+    <Website value=""/>
+</xml>

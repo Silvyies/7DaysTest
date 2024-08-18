@@ -1,0 +1,26 @@
+<config>
+
+	<append xpath="/traders/trader_info[not(@id='3') and not(@id='4') and not(@id='5')]/trader_items">
+		<item group="NightQuestBooks" count="1" prob="1.0" />
+	</append>
+
+	<append xpath="/traders/trader_item_groups">
+
+		<trader_item_group name="NightQuestBooks">
+			<!-- <item name="Killing_from_the_Shadows" count="1" prob=".6"/>
+			<item name="Killing_from_the_Shadows_Tourist" count="1" prob=".5"/>
+			<item name="Killing_from_the_Shadows_cops" count="1" prob=".2"/>
+			<item name="Killing_from_the_Shadows_Demolition" count="1" prob=".15"/>
+			<item name="Killing_from_the_Shadows_Mutated" count="1" prob=".2"/>
+			<item name="Killing_from_the_Shadows_Spiders" count="1" prob=".4"/>
+			<item name="Killing_from_the_Shadows_Radiated" count="1" prob=".2"/> -->
+			<item name="T1_Nocturnal_fetch_clear" count="1" prob=".63"/>
+			<item name="T2_Nocturnal_fetch_clear" count="1" prob=".3"/>
+			<item name="T3_Nocturnal_fetch_clear" count="1" prob=".2"/>
+			<item name="T4_Nocturnal_fetch_clear" count="1" prob=".15"/>
+			<item name="T5_Nocturnal_fetch_clear" count="1" prob=".05"/>
+		</trader_item_group>
+
+</append>
+	
+</config>

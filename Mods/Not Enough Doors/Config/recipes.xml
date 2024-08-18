@@ -1,0 +1,194 @@
+<PaperSama0104>
+
+<!-- Add variant helper recipes -->
+<append xpath="/recipes">
+
+	<!-- *** Doors -->
+<recipe name="NEDwoodDoorBlockVariantHelper" count="1">
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="NEDironDoorBlockVariantHelper" count="1">
+	<ingredient name="resourceForgedIron" count="10"/>
+</recipe>
+
+<recipe name="NEDsteelDoorBlockVariantHelper" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="10"/>
+	<ingredient name="resourceSpring" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+</recipe>
+
+<recipe name="NEDsteel_PoweredDoorBlockVariantHelper" count="1" craft_area="workbench" tags="perkAdvancedEngineering,learnable">
+	<ingredient name="resourceForgedSteel" count="15"/>
+	<ingredient name="resourceSpring" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="15"/>
+	<ingredient name="resourceElectricParts" count="15"/>
+	<effect_group>
+		<passive_effect name="CraftingIngredientCount" level="0,1,2,3,4" operation="perc_add" value=".56,.56,.56,.34,.15" tags="resourceForgedSteel,resourceSpring,resourceMechanicalParts,resourceElectricParts"/>
+	</effect_group>
+</recipe>
+
+	<!-- *** Cellar Doors -->
+<recipe name="NEDwoodCellarBlockVariantHelper" count="1">
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="NEDironCellarBlockVariantHelper" count="1">
+	<ingredient name="resourceForgedIron" count="10"/>
+</recipe>
+
+<recipe name="NEDsteelCellarBlockVariantHelper" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="10"/>
+	<ingredient name="resourceSpring" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+</recipe>
+
+<recipe name="NEDsteel_PoweredCellarBlockVariantHelper" count="1" craft_area="workbench" tags="perkAdvancedEngineering,learnable">
+	<ingredient name="resourceForgedSteel" count="15"/>
+	<ingredient name="resourceSpring" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="15"/>
+	<ingredient name="resourceElectricParts" count="15"/>
+	<effect_group>
+		<passive_effect name="CraftingIngredientCount" level="0,1,2,3,4" operation="perc_add" value=".56,.56,.56,.34,.15" tags="resourceForgedSteel,resourceSpring,resourceMechanicalParts,resourceElectricParts"/>
+	</effect_group>
+</recipe>
+
+	<!-- *** Roll-up Doors -->
+<recipe name="NEDwoodRollUpBlockVariantHelper" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="10"/>
+	<ingredient name="resourceSpring" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+</recipe>
+
+<recipe name="NEDironRollUpBlockVariantHelper" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceSpring" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+</recipe>
+
+<recipe name="NEDsteelRollUpBlockVariantHelper" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="10"/>
+	<ingredient name="resourceSpring" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+</recipe>
+
+<recipe name="NEDsteel_PoweredRollUpBlockVariantHelper" count="1" craft_area="workbench" tags="perkAdvancedEngineering,learnable">
+	<ingredient name="resourceForgedSteel" count="15"/>
+	<ingredient name="resourceSpring" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="15"/>
+	<ingredient name="resourceElectricParts" count="15"/>
+	<effect_group>
+		<passive_effect name="CraftingIngredientCount" level="0,1,2,3,4" operation="perc_add" value=".56,.56,.56,.34,.15" tags="resourceForgedSteel,resourceSpring,resourceMechanicalParts,resourceElectricParts"/>
+	</effect_group>
+</recipe>
+
+	<!-- *** Garage Doors -->
+<recipe name="NEDwoodGarageBlockVariantHelper" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="20"/>
+	<ingredient name="resourceSpring" count="20"/>
+	<ingredient name="resourceMechanicalParts" count="20"/>
+</recipe>
+
+<recipe name="NEDironGarageBlockVariantHelper" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="20"/>
+	<ingredient name="resourceSpring" count="20"/>
+	<ingredient name="resourceMechanicalParts" count="20"/>
+</recipe>
+
+<recipe name="NEDsteelGarageBlockVariantHelper" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="20"/>
+	<ingredient name="resourceSpring" count="20"/>
+	<ingredient name="resourceMechanicalParts" count="20"/>
+</recipe>
+
+<recipe name="NEDsteel_PoweredGarageBlockVariantHelper" count="1" craft_area="workbench" tags="perkAdvancedEngineering,learnable">
+	<ingredient name="resourceForgedSteel" count="31"/>
+	<ingredient name="resourceSpring" count="31"/>
+	<ingredient name="resourceMechanicalParts" count="31"/>
+	<ingredient name="resourceElectricParts" count="31"/>
+	<effect_group>
+		<passive_effect name="CraftingIngredientCount" level="0,1,2,3,4" operation="perc_add" value=".56,.56,.56,.34,.15" tags="resourceForgedSteel,resourceSpring,resourceMechanicalParts,resourceElectricParts"/>
+	</effect_group>
+</recipe>
+
+	<!-- *** Fold-up Doors -->
+<recipe name="NEDwoodFoldUpBlockVariantHelper" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="20"/>
+	<ingredient name="resourceSpring" count="20"/>
+	<ingredient name="resourceMechanicalParts" count="20"/>
+</recipe>
+
+<recipe name="NEDironFoldUpBlockVariantHelper" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="20"/>
+	<ingredient name="resourceSpring" count="20"/>
+	<ingredient name="resourceMechanicalParts" count="20"/>
+</recipe>
+
+<recipe name="NEDsteelFoldUpBlockVariantHelper" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="20"/>
+	<ingredient name="resourceSpring" count="20"/>
+	<ingredient name="resourceMechanicalParts" count="20"/>
+</recipe>
+
+<recipe name="NEDsteel_PoweredFoldUpBlockVariantHelper" count="1" craft_area="workbench" tags="perkAdvancedEngineering,learnable">
+	<ingredient name="resourceForgedSteel" count="31"/>
+	<ingredient name="resourceSpring" count="31"/>
+	<ingredient name="resourceMechanicalParts" count="31"/>
+	<ingredient name="resourceElectricParts" count="31"/>
+	<effect_group>
+		<passive_effect name="CraftingIngredientCount" level="0,1,2,3,4" operation="perc_add" value=".56,.56,.56,.34,.15" tags="resourceForgedSteel,resourceSpring,resourceMechanicalParts,resourceElectricParts"/>
+	</effect_group>
+</recipe>
+
+	<!-- *** Hatches -->
+<recipe name="NEDwoodHatchBlockVariantHelper" count="1">
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="NEDironHatchBlockVariantHelper" count="1">
+	<ingredient name="resourceForgedIron" count="10"/>
+</recipe>
+
+<recipe name="NEDsteelHatchBlockVariantHelper" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="10"/>
+	<ingredient name="resourceSpring" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+</recipe>
+
+<recipe name="NEDsteel_PoweredHatchBlockVariantHelper" count="1" craft_area="workbench" tags="perkAdvancedEngineering,learnable">
+	<ingredient name="resourceForgedSteel" count="15"/>
+	<ingredient name="resourceSpring" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="15"/>
+	<ingredient name="resourceElectricParts" count="15"/>
+	<effect_group>
+		<passive_effect name="CraftingIngredientCount" level="0,1,2,3,4" operation="perc_add" value=".56,.56,.56,.34,.15" tags="resourceForgedSteel,resourceSpring,resourceMechanicalParts,resourceElectricParts"/>
+	</effect_group>
+</recipe>
+
+	<!-- *** Shutters -->
+<recipe name="NEDwoodShuttersBlockVariantHelper" count="1">
+	<ingredient name="resourceWood" count="10"/>
+</recipe>
+
+<recipe name="NEDironShuttersBlockVariantHelper" count="1">
+	<ingredient name="resourceForgedIron" count="10"/>
+</recipe>
+
+<recipe name="NEDsteelShuttersBlockVariantHelper" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="10"/>
+	<ingredient name="resourceSpring" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+</recipe>
+
+<recipe name="NEDsteel_PoweredShuttersBlockVariantHelper" count="1" craft_area="workbench" tags="perkAdvancedEngineering,learnable">
+	<ingredient name="resourceForgedSteel" count="15"/>
+	<ingredient name="resourceSpring" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="15"/>
+	<ingredient name="resourceElectricParts" count="15"/>
+	<effect_group>
+		<passive_effect name="CraftingIngredientCount" level="0,1,2,3,4" operation="perc_add" value=".56,.56,.56,.34,.15" tags="resourceForgedSteel,resourceSpring,resourceMechanicalParts,resourceElectricParts"/>
+	</effect_group>
+</recipe>
+</append>
+
+</PaperSama0104>

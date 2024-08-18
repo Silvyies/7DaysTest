@@ -1,0 +1,13 @@
+<PaperSama0104>
+
+<!-- append all new upgradable gates' variant helper to repair tools' upgrade list -->
+<append xpath="/items/item[@name='meleeToolRepairT0StoneAxe']/property[@class='Action1']/property[@name='Allowed_upgrade_items']/@value">,NEDironGateBlockVariantHelper,NEDsteelGateBlockVariantHelper
+</append>
+
+<append xpath="/items/item[@name='meleeToolRepairT1ClawHammer']/property[@class='Action1']/property[@name='Allowed_upgrade_items']/@value">,NEDironGateBlockVariantHelper,NEDsteelGateBlockVariantHelper
+</append>
+
+<append xpath="/items/item[@name='meleeToolRepairT3Nailgun']/property[@class='Action1']/property[@name='Allowed_upgrade_items']/@value">,NEDironGateBlockVariantHelper,NEDsteelGateBlockVariantHelper
+</append>
+
+</PaperSama0104>

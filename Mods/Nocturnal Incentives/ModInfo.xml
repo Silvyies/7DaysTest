@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xml>
+    <Name value="Nocturnal_Incentives" />
+    <DisplayName value="Nocturnal Incentives" />
+    <Version value="1.0.0" />
+    <Description value="This mod adds a boost to EXP and gamestage at night time, along with night only quests." />
+    <Author value="Tastemymonster" />
+   	<Website value="https://www.nexusmods.com/7daystodie/mods/2313"/>
+</xml>

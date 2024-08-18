@@ -1,0 +1,25 @@
+
+<configs>
+
+<append xpath="/blocks/block[@name='terrStone']">
+	<drop event="Harvest" name="resourceSilverNugget" prob=".001" count="0,4" tag="highValue"/>
+	<drop event="Harvest" name="resourceGoldNugget" prob=".0005" count="0,2" tag="highValue"/>
+	<drop event="Harvest" name="resourceRawDiamond" prob= ".0001" count="0,1" tag="highValue"/>
+</append>
+
+<append xpath="/blocks/block[@name='terrDirt']">
+	<drop event="Harvest" name="resourcePotassiumNitratePowder" prob=".002" count="0,100" tag="highValue"/>
+	<drop event="Harvest" name="resourceCoal" prob=".002" count="0,100" tag="highValue"/>
+	<drop event="Harvest" name="casinoCoin" prob=".001" count="0,100" tag="highValue"/>
+</append>
+
+<append xpath="/blocks/block[@name='terrDesertGround']">
+	<drop event="Harvest" name="resourceOilShale" prob=".002" count="1,100" tag="highValue"/>
+	<drop event="Harvest" name="casinoCoin" prob=".002" count="0,100" tag="highValue"/>
+</append>
+
+<append xpath="/blocks/block[@name='treeMaster']">
+	<drop event="Harvest" name="foodHoney" prob=".001" count="0,2" tag="highValue"/>
+</append>
+
+</configs>

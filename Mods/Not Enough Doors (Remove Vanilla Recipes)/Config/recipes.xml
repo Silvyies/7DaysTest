@@ -1,0 +1,40 @@
+<PaperSama0104>
+
+<!-- Remove vanilla recipes -->
+
+<!-- 22 Doors -->
+<remove xpath="/recipes/recipe[@name='oldWoodDoor']"/>
+<remove xpath="/recipes/recipe[@name='ironDoorBlockVariantHelper']"/>
+<remove xpath="/recipes/recipe[@name='vaultDoor01']"/>
+<remove xpath="/recipes/recipe[@name='vaultDoor01_Powered']"/>
+<remove xpath="/recipes/recipe[@name='oldWoodDoorDouble']"/>
+<remove xpath="/recipes/recipe[@name='ironDoorDoubleBlockVariantHelper']"/>
+<remove xpath="/recipes/recipe[@name='vaultDoor01Double']"/>
+<remove xpath="/recipes/recipe[@name='vaultDoor01Double_Powered']"/>
+<remove xpath="/recipes/recipe[@name='cellarDoorDoubleWood']"/>
+<remove xpath="/recipes/recipe[@name='cellarDoorDoubleIron']"/>
+<remove xpath="/recipes/recipe[@name='cellarDoorDoubleSteel']"/>
+<remove xpath="/recipes/recipe[@name='rollUpDoor3x3VariantHelper']"/>
+<remove xpath="/recipes/recipe[@name='rollUpDoor5x4VariantHelper']"/>
+<remove xpath="/recipes/recipe[@name='rollUpDoor7x4VariantHelper']"/>
+<remove xpath="/recipes/recipe[@name='ironGarageDoorBlockVariantHelper']"/>
+<remove xpath="/recipes/recipe[@name='ironGarageDoor_PoweredBlockVariantHelper']"/>
+<remove xpath="/recipes/recipe[@name='woodenGarageDoor3x3_PoweredBlockVariantHelper']"/>
+<remove xpath="/recipes/recipe[@name='woodenGarageDoor4x3_PoweredBlockVariantHelper']"/>
+<remove xpath="/recipes/recipe[@name='woodenGarageDoor5x3_PoweredBlockVariantHelper']"/>
+<remove xpath="/recipes/recipe[@name='steelGarageDoor3x3_PoweredBlockVariantHelper']"/>
+<remove xpath="/recipes/recipe[@name='steelGarageDoor4x3_PoweredBlockVariantHelper']"/>
+<remove xpath="/recipes/recipe[@name='steelGarageDoor5x3_PoweredBlockVariantHelper']"/>
+
+<!-- 4 Hatches -->
+<remove xpath="/recipes/recipe[@name='woodHatch']"/>
+<remove xpath="/recipes/recipe[@name='ironHatchBlockVariantHelper']"/>
+<remove xpath="/recipes/recipe[@name='vaultHatch01']"/>
+<remove xpath="/recipes/recipe[@name='vaultHatch01_Powered']"/>
+
+<!-- 3 Shutters -->
+<remove xpath="/recipes/recipe[@name='shuttersWoodBlockVariantHelper']"/>
+<remove xpath="/recipes/recipe[@name='shuttersIronBlockVariantHelper']"/>
+<remove xpath="/recipes/recipe[@name='shuttersSteelBlockVariantHelper']"/>
+
+</PaperSama0104>

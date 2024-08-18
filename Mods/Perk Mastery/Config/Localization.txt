@@ -1,0 +1,381 @@
+Key,Source,Context,Changes,English,schinese
+Perk Mastery,progression,Attribute,New,Perk Mastery,精通技能
+Master your area of expertise!,progression,Attribute,New,Master your area of expertise!,掌握您的专业领域!
+Unlock Masteries,progression,Attribute,New,Unlock Masteries,解锁专精
+"Master yourself, master the enemy.",progression,Attribute,New,"Master yourself, master the enemy.","战胜自己,战胜敌人"
+Jack of All Trades,progression,Attribute,New,Jack of All Trades!,多面手
+Master of One,progression,Attribute,New,Master of One!,专精一项
+Sprinter,progression,skills,New,Sprinter,短跑选手
+You are mastering the art of sprinting. Your sprinting speed increases.,progression,skills,New,You are mastering the art of sprinting. Your sprinting speed increases.,"你正在学习短跑的技巧,冲刺速度提高了"
+Increase your sprinting speed by 7%.,progression,skills,New,Increase your sprinting speed by 7%.,你的冲刺速度提高7%
+Increase your sprinting speed by 14%.,progression,skills,New,Increase your sprinting speed by 14%.,你的冲刺速度提高14%
+Increase your sprinting speed by 21%.,progression,skills,New,Increase your sprinting speed by 21%.,你的冲刺速度提高21%
+Increase your sprinting speed by 28%.,progression,skills,New,Increase your sprinting speed by 28%.,你的冲刺速度提高28%
+Increase your sprinting speed by 35%.,progression,skills,New,Increase your sprinting speed by 35%.,你的冲刺速度提高35%
+Increase your sprinting speed by 42%.,progression,skills,New,Increase your sprinting speed by 42%.,你的冲刺速度提高42%
+Gotta go fast! Increase your sprinting speed by 50%.,progression,skills,New,Gotta go fast! Increase your sprinting speed by 50%.,可以更快!你的冲刺速度提高50%
+Runner,progression,skills,New,Runner,长跑选手
+You are mastering the art of running. Your stamina recuperation increases.,progression,skills,New,You are mastering the art of running. Your stamina recuperation increases.,"你正在学习长跑的技巧,你的体力恢复速度提高了"
+Increase stamina regen by 4%.,progression,skills,New,Increase stamina regen by 4%.,体力恢复速度提高4%
+Increase stamina regen by 8%.,progression,skills,New,Increase stamina regen by 8%.,体力恢复速度提高8%
+Increase stamina regen by 12%.,progression,skills,New,Increase stamina regen by 12%.,体力恢复速度提高12%
+Increase stamina regen by 16%.,progression,skills,New,Increase stamina regen by 16%.,体力恢复速度提高16%
+Increase stamina regen by 20%..,progression,skills,New,Increase stamina regen by 20%..,体力恢复速度提高20%
+Increase stamina regen by 24%.,progression,skills,New,Increase stamina regen by 24%.,体力恢复速度提高24%
+It's about how much you can take and keep moving forward! Increase stamina regen by 30%.,progression,skills,New,It's about how much you can take and keep moving forward! Increase stamina regen by 30%.,这是关系到你能承受多少并继续行动!\n体力恢复速度提高30%
+Survivalist,progression,skills,New,Survivalist,幸存者
+You are conditioning your body to the maximum limits. Your tolerance towards the elements increases.,progression,skills,New,You are conditioning your body to the maximum limits. Your tolerance towards the elements increases.,"正在将你的身体强化到极限,你对外界环境的耐受性增强了"
+Increase your resistance agains heat and cold by 4 and reduce food and water loss from physical exertion by 4%.,progression,skills,New,Increase your resistance agains heat and cold by 4 and reduce food and water loss from physical exertion by 4%.,炎热和寒冷抗性提高4\n行动导致的食物和水的消耗降低4%
+Increase your resistance agains heat and cold by 8 and reduce food and water loss from physical exertion by 8%,progression,skills,New,Increase your resistance agains heat and cold by 8 and reduce food and water loss from physical exertion by 8%,炎热和寒冷抗性提高8\n行动导致的食物和水的消耗降低8%
+Increase your resistance agains heat and cold by 12 and reduce food and water loss from physical exertion by 12%,progression,skills,New,Increase your resistance agains heat and cold by 12 and reduce food and water loss from physical exertion by 12%,炎热和寒冷抗性提高12\n行动导致的食物和水的消耗降低12%
+Increase your resistance agains heat and cold by 16 and reduce food and water loss from physical exertion by 16%,progression,skills,New,Increase your resistance agains heat and cold by 16 and reduce food and water loss from physical exertion by 16%,炎热和寒冷抗性提高16\n行动导致的食物和水的消耗降低16%
+Increase your resistance agains heat and cold by 20 and reduce food and water loss from physical exertion by 20%,progression,skills,New,Increase your resistance agains heat and cold by 20 and reduce food and water loss from physical exertion by 20%,炎热和寒冷抗性提高20\n行动导致的食物和水的消耗降低20%
+Increase your resistance agains heat and cold by 24 and reduce food and water loss from physical exertion by 24%,progression,skills,New,Increase your resistance agains heat and cold by 24 and reduce food and water loss from physical exertion by 24%,炎热和寒冷抗性提高24\n行动导致的食物和水的消耗降低24%
+You've mastered the art of surviving in the wilderness! Increase your resistance agains heat and cold by 30 and and reduce food and water loss from physical exertion by 30%.,progression,skills,New,You've mastered the art of surviving in the wilderness! Increase your resistance agains heat and cold by 30 and and reduce food and water loss from physical exertion by 30%.,你已经掌握了在荒野中生存的技术!\n炎热和寒冷抗性提高30\n行动导致的食物和水的消耗降低30%
+Calisthenics,progression,skills,New,Calisthenics,健美操
+"You are mastering the excercising method of only using your body, enforcing a daily training regime and a balanced diet. Your maximum health and stamina increase.",progression,skills,New,"You are mastering the excercising method of only using your body, enforcing a daily training regime and a balanced diet. Your maximum health and stamina increase.",你正在学习只使用身体的锻炼方法，加强日常训练和均衡饮食。提高你的最大生命值和体力。
+Increase your maximum health and stamina by 5.,progression,skills,New,Increase your maximum health and stamina by 5.,最大生命值和体力增加5
+Increase your maximum health and stamina by 10.,progression,skills,New,Increase your maximum health and stamina by 10.,最大生命值和体力增加10
+Increase your maximum health and stamina by 15.,progression,skills,New,Increase your maximum health and stamina by 15.,最大生命值和体力增加15
+Increase your maximum health and stamina by 20.,progression,skills,New,Increase your maximum health and stamina by 20.,最大生命值和体力增加20
+Increase your maximum health and stamina by 25.,progression,skills,New,Increase your maximum health and stamina by 25.,最大生命值和体力增加25
+Increase your maximum health and stamina by 30.,progression,skills,New,Increase your maximum health and stamina by 30.,最大生命值和体力增加30
+You have the features of a demigod! Increase your maximum health and stamina by 40.,progression,skills,New,You have the features of a demigod! Increase your maximum health and stamina by 40.,你有半神的特征!\n最大生命值和体力增加40
+Scavenger,progression,skills,New,Scavenger,拾荒者
+You are mastering the art of collecting every piece of scrap and armor you find lying around and then wearing it. Your damage reduction increases.,progression,skills,New,You are mastering the art of collecting every piece of scrap and armor you find lying around and then wearing it. Your damage reduction increases.,你正在学习收集每一块散落的金属碎片和护甲，并装备它们的技术。你的伤害减免增加了
+Increase your Damage Resistance by 1.2%.,progression,skills,New,Increase your Damage Resistance by 1.2%.,伤害减免提高1.2%
+Increase your Damage Resistance by 2.4%.,progression,skills,New,Increase your Damage Resistance by 2.4%.,伤害减免提高2.4%
+Increase your Damage Resistance by 3.6%.,progression,skills,New,Increase your Damage Resistance by 3.6%.,伤害减免提高3.6%
+Increase your Damage Resistance by 4.8%.,progression,skills,New,Increase your Damage Resistance by 4.8%.,伤害减免提高4.8%
+Increase your Damage Resistance by 6%.,progression,skills,New,Increase your Damage Resistance by 6%.,伤害减免提高6%
+Increase your Damage Resistance by 7.2%.,progression,skills,New,Increase your Damage Resistance by 7.2%.,伤害减免提高7.2%
+"Вон он сука! *head, eyes*. Increase your Damage Resistance by 10%.",progression,skills,New,"Вон он сука! *head, eyes*. Increase your Damage Resistance by 10%.","Вон он сука! *head, eyes*.\n伤害减免提高10%"
+Gold Digger,progression,skills,New,Gold Digger,淘金者
+You are mastering the art of digging deep. You find more stuff when gathering resources.,progression,skills,New,You are mastering the art of digging deep. You find more stuff when gathering resources.,你正在学习挖掘的技巧。在采集资源时，你能发现更多的东西。
+"Harvest 7% more, gain 7% more experience and find rare valuables from ore, stone, terrain blocks and trees.",progression,skills,New,"Harvest 7% more, gain 7% more experience and find rare valuables from ore, stone, terrain blocks and trees.",采集数量提高 7%\n经验获取提高 7%\n从矿石、石头、地形块和树木中找到稀有宝物
+"Harvest 14% more, gain 14% more experience and find rare valuables from ore, stone, terrain blocks and trees.",progression,skills,New,"Harvest 14% more, gain 14% more experience and find rare valuables from ore, stone, terrain blocks and trees.",采集数量提高 14%\n经验获取提高 14%\n从矿石、石头、地形块和树木中找到稀有宝物
+"Harvest 21% more, gain 21% more experience and find rare valuables from ore, stone, terrain blocks and trees.",progression,skills,New,"Harvest 21% more, gain 21% more experience and find rare valuables from ore, stone, terrain blocks and trees.",采集数量提高 21%\n经验获取提高 21%\n从矿石、石头、地形块和树木中找到稀有宝物
+"Harvest 28% more, gain 28% more experience and find rare valuables from ore, stone, terrain blocks and trees.",progression,skills,New,"Harvest 28% more, gain 28% more experience and find rare valuables from ore, stone, terrain blocks and trees.",采集数量提高 28%\n经验获取提高 28%\n从矿石、石头、地形块和树木中找到稀有宝物
+"Harvest 35% more, gain 35% more experience and find rare valuables from ore, stone, terrain blocks and trees.",progression,skills,New,"Harvest 35% more, gain 35% more experience and find rare valuables from ore, stone, terrain blocks and trees.",采集数量提高 35%\n经验获取提高 35%\n从矿石、石头、地形块和树木中找到稀有宝物
+"Harvest 42% more, gain 42% more experience and find rare valuables from ore, stone, terrain blocks and trees.",progression,skills,New,"Harvest 42% more, gain 42% more experience and find rare valuables from ore, stone, terrain blocks and trees.",采集数量提高 42%\n经验获取提高 42%\n从矿石、石头、地形块和树木中找到稀有宝物
+"Rock and stone! Harvest 50% more, gain 50% more experience and find rare valuables from ore, stone, terrain blocks and trees.",progression,skills,New,"Rock and stone! Harvest 50% more, gain 50% more experience and find rare valuables from ore, stone, terrain blocks and trees.",Rock and stone! \n采集数量提高 50%\n经验获取提高 50%\n从矿石、石头、地形块和树木中找到稀有宝物
+Efficiency,progression,skills,New,Efficiency,效率
+You are mastering minimal exertion while using weapons and tools. Lose less Stamina per melee swing.,progression,skills,New,You are mastering minimal exertion while using weapons and tools. Lose less Stamina per melee swing.,"你正在学习使用武器和工具时的技巧,每次近战挥动消耗的耐力更少"
+Lose 3% less stamina while swinging melee tools and weapons.,progression,skills,New,Lose 3% less stamina while swinging melee tools and weapons.,"在挥动近战工具和武器时,体力消耗降低3%"
+Lose 6% less stamina while swinging melee tools and weapons.,progression,skills,New,Lose 6% less stamina while swinging melee tools and weapons.,"在挥动近战工具和武器时,体力消耗降低6%"
+Lose 9% less stamina while swinging melee tools and weapons.,progression,skills,New,Lose 9% less stamina while swinging melee tools and weapons.,"在挥动近战工具和武器时,体力消耗降低9%"
+Lose 12% less stamina while swinging melee tools and weapons.,progression,skills,New,Lose 12% less stamina while swinging melee tools and weapons.,"在挥动近战工具和武器时,体力消耗降低12%"
+Lose 15% less stamina while swinging melee tools and weapons.,progression,skills,New,Lose 15% less stamina while swinging melee tools and weapons.,"在挥动近战工具和武器时,体力消耗降低15%"
+Lose 18% less stamina while swinging melee tools and weapons.,progression,skills,New,Lose 18% less stamina while swinging melee tools and weapons.,"在挥动近战工具和武器时,体力消耗降低18%"
+You use precisely the amount of strength that you need. Lose 25% less stamina while swinging melee tools and weapons.,progression,skills,New,You use precisely the amount of strength that you need. Lose 25% less stamina while swinging melee tools and weapons.,"你精确地运用了你所需要的力量\n在挥动近战工具和武器时,体力消耗降低 18%"
+Shrimp Punch,progression,skills,New,Shrimp Punch,虾拳
+You are mastering the art of the Mantis Shrimp Punch. Deal more melee entity and block damage.,progression,skills,New,You are mastering the art of the Mantis Shrimp Punch. Deal more melee entity and block damage.,"你正在学习螳螂虾拳的技巧,造成更多的近战实体和物块伤害"
+Increase your Melee and Block Damage by 4%.,progression,skills,New,Increase your Melee and Block Damage by 4%.,你的的近战和物块伤害增加4%
+Increase your Melee and Block Damage by 8%.,progression,skills,New,Increase your Melee and Block Damage by 8%.,将你的近战和物块伤害增加8%
+Increase your Melee and Block Damage by 12%.,progression,skills,New,Increase your Melee and Block Damage by 12%.,将你的近战和物块伤害增加12%
+Increase your Melee and Block Damage by 16%.,progression,skills,New,Increase your Melee and Block Damage by 16%.,将你的近战和物块伤害增加16%
+Increase your Melee and Block Damage by 20%.,progression,skills,New,Increase your Melee and Block Damage by 20%.,将你的近战和物块伤害增加20%
+Increase your Melee and Block Damage by 24%.,progression,skills,New,Increase your Melee and Block Damage by 24%.,将你的近战和物块伤害增加24%
+Your attacks reach supersonic speeds! Increase your Melee and Block Damage by 30%.,progression,skills,New,Your attacks reach supersonic speeds! Increase your Melee and Block Damage by 30%.,你的攻击达到了超音速!\n将你的近战和物块伤害增加 30%
+Rapid Blows,progression,skills,New,Rapid Blows,迅疾打击
+You are mastering the art of rapid attacks. You are able too attack even faster.,progression,skills,New,You are mastering the art of rapid attacks. You are able too attack even faster.,"你正在掌握快速攻击的技巧,你能够更快的攻击"
+Increase your Attack Speed with melee tools and weapons by 4%.,progression,skills,New,Increase your Attack Speed with melee tools and weapons by 4%.,近战工具和武器的攻击速度增加4%
+Increase your Attack Speed with melee tools and weapons by 8%.,progression,skills,New,Increase your Attack Speed with melee tools and weapons by 8%.,近战工具和武器的攻击速度增加8%
+Increase your Attack Speed with melee tools and weapons by 12%.,progression,skills,New,Increase your Attack Speed with melee tools and weapons by 12%.,近战工具和武器的攻击速度增加12%
+Increase your Attack Speed with melee tools and weapons by 16%.,progression,skills,New,Increase your Attack Speed with melee tools and weapons by 16%.,近战工具和武器的攻击速度增加16%
+Increase your Attack Speed with melee tools and weapons by 20%.,progression,skills,New,Increase your Attack Speed with melee tools and weapons by 20%.,近战工具和武器的攻击速度增加20%
+Increase your Attack Speed with melee tools and weapons by 24%.,progression,skills,New,Increase your Attack Speed with melee tools and weapons by 24%.,近战工具和武器的攻击速度增加24%
+Fast as lightning! Increase your Attack Speed with melee tools and weapons by 30%.,progression,skills,New,Fast as lightning! Increase your Attack Speed with melee tools and weapons by 30%.,快如闪电!\n近战工具和武器的攻击速度增加 30%
+Criminal,progression,skills,New,Criminal,罪犯
+You are mastering Criminal activities. You make less noise while sneaking around and you're getting better at picking locks.,progression,skills,New,You are mastering Criminal activities. You make less noise while sneaking around and you're getting better at picking locks.,"你正在练习犯罪活动,你在潜行时发出的声音更少，而且你在撬锁方面越来越厉害"
+Decrease noise by 3% while crouching and deal 30% more damage while also undetected. You handle lockpicks 4% better.,progression,skills,New,Decrease noise by 3% while crouching and deal 30% more damage while also undetected. You handle lockpicks 4% better.,蹲下时噪音减少3%\n在未被发现的情况下伤害提高 30%\n撬锁技能提高4%
+Decrease noise by 6% while crouching and deal 60% more damage while also undetected. You handle lockpicks 8% better.,progression,skills,New,Decrease noise by 6% while crouching and deal 60% more damage while also undetected. You handle lockpicks 8% better.,蹲下时噪音减少6%\n在未被发现的情况下伤害提高 60%\n撬锁技能提高8%
+Decrease noise by 9% while crouching and deal 90% more damage while also undetected. You handle lockpicks 12% better.,progression,skills,New,Decrease noise by 9% while crouching and deal 90% more damage while also undetected. You handle lockpicks 12% better.,蹲下时噪音减少9%\n在未被发现的情况下伤害提高 90%\n撬锁技能提高12%
+Decrease noise by 12% while crouching and deal 120% more damage while also undetected. You handle lockpicks 16% better.,progression,skills,New,Decrease noise by 12% while crouching and deal 120% more damage while also undetected. You handle lockpicks 16% better.,蹲下时噪音减少12%\n在未被发现的情况下伤害提高 120%\n撬锁技能提高16%
+Decrease noise by 15% while crouching and deal 150% more damage while also undetected. You handle lockpicks 20% better.,progression,skills,New,Decrease noise by 15% while crouching and deal 150% more damage while also undetected. You handle lockpicks 20% better.,蹲下时噪音减少15%\n在未被发现的情况下伤害提高 150%\n撬锁技能提高20%
+Decrease noise by 18% while crouching and deal 180% more damage while also undetected. You handle lockpicks 24% better.,progression,skills,New,Decrease noise by 18% while crouching and deal 180% more damage while also undetected. You handle lockpicks 24% better.,蹲下时噪音减少18%\n在未被发现的情况下伤害提高 250%\n撬锁技能提高24%
+"Click out of one, nothing on two, three is binding. Decrease noise by 25% while crouching and deal 250% more damage while also undetected. You handle lockpicks 30% better.",progression,skills,New,"Click out of one, nothing on two, three is binding. Decrease noise by 25% while crouching and deal 250% more damage while also undetected. You handle lockpicks 30% better.","Click out of one, nothing on two, three is binding. \n蹲下时噪音减少25%\n在未被发现的情况下伤害提高250%\n撬锁技能提高30%"
+Crafting,progression,skills,New,Crafting,制作
+"You are mastering crafting, allowing you to craft even faster than before.",progression,skills,New,"You are mastering crafting, allowing you to craft even faster than before.",你正在学习制作技能，你能够比以前更快地制作物品
+Increase your crafting speed by 7%.,progression,skills,New,Increase your crafting speed by 7%.,你的制作速度提高7%
+Increase your crafting speed by 14%.,progression,skills,New,Increase your crafting speed by 14%.,你的制作速度提高14%
+Increase your crafting speed by 21%.,progression,skills,New,Increase your crafting speed by 21%.,你的制作速度提高21%
+Increase your crafting speed by 28%.,progression,skills,New,Increase your crafting speed by 28%.,你的制作速度提高28%
+Increase your crafting speed by 35%.,progression,skills,New,Increase your crafting speed by 35%.,你的制作速度提高35%
+Increase your crafting speed by 42%.,progression,skills,New,Increase your crafting speed by 42%.,你的制作速度提高42%
+Don't judge someone until you've stood at his forge and worked with his hammer. Increase your crafting speed by 60%.,progression,skills,New,Don't judge someone until you've stood at his forge and worked with his hammer. Increase your crafting speed by 60%.,"在你站在他的熔炉旁边,用他的锤子工作之前,不要去评判一个人\n制作速度提高60%"
+Dismemberment,progression,skills,New,Dismemberment,肢解
+You are mastering the art of exploding enemy body parts. Get an additional chance to dismember with any weapon or fists.,progression,skills,New,You are mastering the art of exploding enemy body parts. Get an additional chance to dismember with any weapon or fists.,"你正在学习肢解敌人的技术,无论使用何种武器或拳头,都有额外的机会进行肢解"
+Increase your chance to dismember by 1.2%.,progression,skills,New,Increase your chance to dismember by 1.2%.,你的肢解概率增加1.2%
+Increase your chance to dismember by 2.4%.,progression,skills,New,Increase your chance to dismember by 2.4%.,你的肢解概率增加2.4%
+Increase your chance to dismember by 3.6%.,progression,skills,New,Increase your chance to dismember by 3.6%.,你的肢解概率增加3.6%
+Increase your chance to dismember by 4.8%.,progression,skills,New,Increase your chance to dismember by 4.8%.,你的肢解概率增加4.8%
+Increase your chance to dismember by 6%.,progression,skills,New,Increase your chance to dismember by 6%.,你的肢解概率增加6%
+Increase your chance to dismember by 7.2%.,progression,skills,New,Increase your chance to dismember by 7.2%.,你的肢解概率增加7.2%
+Omae wa mou shindeiru. Increase your chance to dismember by 10%.,progression,skills,New,Omae wa mou shindeiru. Increase your chance to dismember by 10%.,Omae wa mou shindeiru.(你已经死了)\n你的肢解概率增加10%
+Memorisation,progression,skills,New,Memorisation,记忆
+You mastering the mnemonic method of memorisation. You are earning experience faster.,progression,skills,New,You mastering the mnemonic method of memorisation. You are earning experience faster.,"你正在学习记忆的方法,你可以更快地获得经验"
+Increase your earned experience by 4%.,progression,skills,New,Increase your earned experience by 4%.,你获得的经验提高4%
+Increase your earned experience by 8%.,progression,skills,New,Increase your earned experience by 8%.,你获得的经验提高8%
+Increase your earned experience by 12%.,progression,skills,New,Increase your earned experience by 12%.,你获得的经验提高12%
+Increase your earned experience by 16%.,progression,skills,New,Increase your earned experience by 16%.,你获得的经验提高16%
+Increase your earned experience by 20%.,progression,skills,New,Increase your earned experience by 20%.,你获得的经验提高20%
+Increase your earned experience by 24%.,progression,skills,New,Increase your earned experience by 24%.,你获得的经验提高24%
+Your memorisation rivals that of Magnus Carlsen. Increase your earned experience by 30%.,progression,skills,New,Your memorisation rivals that of Magnus Carlsen. Increase your earned experience by 30%.,你的记忆力可以与马格努斯·卡尔森相媲美\n你获得的经验提高30%
+Triage,progression,skills,New,Triage,诊断
+You are mastering the ways of triage increasing the effectivnes of medical items.,progression,skills,New,You are mastering the ways of triage increasing the effectivnes of medical items.,"你正在学习诊断的技术,增强医疗物品的效果"
+Increase the healing effectivnes of medical items by 8%.,progression,skills,New,Increase the healing effectivnes of medical items by 8%.,医疗物品的治疗效果提升8%
+Increase the healing effectivnes of medical items by 16%.,progression,skills,New,Increase the healing effectivnes of medical items by 16%.,医疗物品的治疗效果提升16%
+Increase the healing effectivnes of medical items by 24%.,progression,skills,New,Increase the healing effectivnes of medical items by 24%.,医疗物品的治疗效果提升24%
+Increase the healing effectivnes of medical items by 32%.,progression,skills,New,Increase the healing effectivnes of medical items by 32%.,医疗物品的治疗效果提升32%
+Increase the healing effectivnes of medical items by 40%.,progression,skills,New,Increase the healing effectivnes of medical items by 40%.,医疗物品的治疗效果提升40%
+Increase the healing effectivnes of medical items by 48%.,progression,skills,New,Increase the healing effectivnes of medical items by 48%.,医疗物品的治疗效果提升48%
+Hypocrite that you are to trust the chemicals in your brain to tell you they are chemicals. Increase the healing effectivnes of medical items by 60%.,progression,skills,New,Hypocrite that you are to trust the chemicals in your brain to tell you they are chemicals. Increase the healing effectivnes of medical items by 60%.,"虚伪的你竟然相信脑中的化学物质告诉你,它们是化学物质。\n医疗物品的治疗效果提升 60%。"
+Double Penetration,progression,skills,New,Double Penetration,双重穿透
+You are mastering the art of penetration. Enemy armor reduced and penetration count increased.,progression,skills,New,You are mastering the art of penetration. Enemy armor reduced and penetration count increased.,你正在练习穿透护甲的技术。减少敌人的护甲并增加穿透次数。
+"Ignore an additional 3% of armor with firearms, archery and spears. AP rounds penetrate an additional target or a block of up to 250 extra hit points when using Hunting, Marksman or Sniper Rifles.",progression,skills,New,"Ignore an additional 3% of armor with firearms, archery and spears. AP rounds penetrate an additional target or a block of up to 250 extra hit points when using Hunting, Marksman or Sniper Rifles.",使用枪械、弓箭和长矛时，额外忽略3%的护甲。\n当使用猎枪、射手步枪或狙击步枪时，AP弹药可以穿透额外的目标，或穿透多达250额外生命值的阻挡。
+"Ignore an additional 6% of armor with firearms, archery and spears. AP rounds penetrate an additional target or a block of up to 250 extra hit points when using Hunting, Marksman or Sniper Rifles.",progression,skills,New,"Ignore an additional 6% of armor with firearms, archery and spears. AP rounds penetrate an additional target or a block of up to 250 extra hit points when using Hunting, Marksman or Sniper Rifles.",使用枪械、弓箭和长矛时，额外忽略6%的护甲。\n当使用猎枪、射手步枪或狙击步枪时，AP弹药可以穿透额外的目标，或穿透多达250额外生命值的阻挡。
+"Ignore an additional 9% of armor with firearms, archery and spears. AP rounds penetrate two additional targets or blocks of up to 500 extra hit points when using Hunting, Marksman or Sniper Rifles.",progression,skills,New,"Ignore an additional 9% of armor with firearms, archery and spears. AP rounds penetrate two additional targets or blocks of up to 500 extra hit points when using Hunting, Marksman or Sniper Rifles.",使用枪械、弓箭和长矛时，额外忽略9%的护甲。\n当使用猎枪、射手步枪或狙击步枪时，AP弹药可以穿透额外的目标，或穿透多达500额外生命值的阻挡。
+"Ignore an additional 12% of armor with firearms, archery and spears. AP rounds penetrate two additional targets or blocks of up to 500 extra hit points when using Hunting, Marksman or Sniper Rifles.",progression,skills,New,"Ignore an additional 12% of armor with firearms, archery and spears. AP rounds penetrate two additional targets or blocks of up to 500 extra hit points when using Hunting, Marksman or Sniper Rifles.",使用枪械、弓箭和长矛时，额外忽略12%的护甲。\n当使用猎枪、射手步枪或狙击步枪时，AP弹药可以穿透额外的目标，或穿透多达500额外生命值的阻挡。
+"Ignore an additional 15% of armor with firearms, archery and spears. AP rounds penetrate three additional targets or blocks of up to 750 extra hit points when using Hunting, Marksman or Sniper Rifles.",progression,skills,New,"Ignore an additional 15% of armor with firearms, archery and spears. AP rounds penetrate three additional targets or blocks of up to 750 extra hit points when using Hunting, Marksman or Sniper Rifles.",使用枪械、弓箭和长矛时，额外忽略15%的护甲。\n当使用猎枪、射手步枪或狙击步枪时，AP弹药可以穿透额外的目标，或穿透多达750额外生命值的阻挡。
+"Ignore an additional 18% of armor with firearms, archery and spears. AP rounds penetrate three additional targets or blocks of up to 750 extra hit points when using Hunting, Marksman or Sniper Rifles.",progression,skills,New,"Ignore an additional 18% of armor with firearms, archery and spears. AP rounds penetrate three additional targets or blocks of up to 750 extra hit points when using Hunting, Marksman or Sniper Rifles.",使用枪械、弓箭和长矛时，额外忽略18%的护甲。\n当使用猎枪、射手步枪或狙击步枪时，AP弹药可以穿透额外的目标，或穿透多达750额外生命值的阻挡。
+"Diggy diggy hole! Ignore an additional 25% of armor with firearms, archery and spears. AP rounds penetrate four additional targets or blocks of up to 1000 extra hit points when using Hunting, Marksman or Sniper Rifles.",progression,skills,New,"Diggy diggy hole! Ignore an additional 25% of armor with firearms, archery and spears. AP rounds penetrate four additional targets or blocks of up to 1000 extra hit points when using Hunting, Marksman or Sniper Rifles.",使用枪械、弓箭和长矛时，额外忽略25%的护甲。\n当使用猎枪、射手步枪或狙击步枪时，AP弹药可以穿透额外的目标，或穿透多达1000额外生命值的阻挡。
+Loot Gobbo,progression,skills,New,Loot Gobbo,战利品哥布林
+You are mastering the art of looting everything! You are more lucky when looting stuff!,progression,skills,New,You are mastering the art of looting everything! You are more lucky when looting stuff!,你正在掌握一切战利品的艺术！在搜刮物品时你更加幸运！
+Adds 3% to loot bonus and quantity. Looting is 1.2% faster.,progression,skills,New,Adds 3% to loot bonus and quantity. Looting is 1.2% faster.,战利品奖励和数量增加3%\n搜刮速度提高1.2%
+Adds 6% to loot bonus and quantity. Looting is 2.4% faster.,progression,skills,New,Adds 6% to loot bonus and quantity. Looting is 2.4% faster.,战利品奖励和数量增加6%\n搜刮速度提高2.4%
+Adds 9% to loot bonus and quantity. Looting is 3.6% faster.,progression,skills,New,Adds 9% to loot bonus and quantity. Looting is 3.6% faster.,战利品奖励和数量增加9%\n搜刮速度提高3.6%
+Adds 12% to loot bonus and quantity. Looting is 4.8% faster.,progression,skills,New,Adds 12% to loot bonus and quantity. Looting is 4.8% faster.,战利品奖励和数量增加12%\n搜刮速度提高4.8%
+Adds 15% to loot bonus and quantity. Looting is 6% faster.,progression,skills,New,Adds 15% to loot bonus and quantity. Looting is 6% faster.,战利品奖励和数量增加15%\n搜刮速度提高6%
+Adds 18% to loot bonus and quantity. Looting is 7.2% faster.,progression,skills,New,Adds 18% to loot bonus and quantity. Looting is 7.2% faster.,战利品奖励和数量增加18%\n搜刮速度提高7.2%
+WE IS BETTER THAN THEM!! Adds 25% to loot bonus and quantity. Looting is 10% faster.,progression,skills,New,WE IS BETTER THAN THEM!! Adds 25% to loot bonus and quantity. Looting is 10% faster.,我们比他们更好!\n战利品奖励和数量增加25%\n搜刮速度提高10%
+Crypto,progression,skills,New,Crypto,加密货币
+You are researching the Cryptocurrency market values. Gathering the data. Your bartering Skills increase.,progression,skills,New,You are researching the Cryptocurrency market values. Gathering the data. Your bartering Skills increase.,你正在研究加密货币市场价值，收集数据。你的交易技能提升了。
+Get a 1.2% better deal buying and selling merchandise with traders.,progression,skills,New,Get a 1.2% better deal buying and selling merchandise with traders.,与商人交易时，购买和出售商品优惠1.2%
+Get a 2.4% better deal buying and selling merchandise with traders.,progression,skills,New,Get a 2.4% better deal buying and selling merchandise with traders.,与商人交易时，购买和出售商品优惠2.4%
+Get a 3.6% better deal buying and selling merchandise with traders.,progression,skills,New,Get a 3.6% better deal buying and selling merchandise with traders.,与商人交易时，购买和出售商品优惠3.6%
+Get a 4.8% better deal buying and selling merchandise with traders.,progression,skills,New,Get a 4.8% better deal buying and selling merchandise with traders.,与商人交易时，购买和出售商品优惠4.8%
+Get a 6% better deal buying and selling merchandise with traders.,progression,skills,New,Get a 6% better deal buying and selling merchandise with traders.,与商人交易时，购买和出售商品优惠6%
+Get a 7.2 better deal buying and selling merchandise with traders.,progression,skills,New,Get a 7.2 better deal buying and selling merchandise with traders.,与商人交易时，购买和出售商品优惠7.2%
+Since when were you under the impression that CRAB-17 was over? Get a 10% better deal buying and selling merchandise with traders.,progression,skills,New,Since when were you under the impression that CRAB-17 was over? Get a 10% better deal buying and selling merchandise with traders.,你从什么时候开始觉得CRAB-17已经结束了?\n与商人交易时，购买和出售商品优惠 10%
+Thin Skin,progression,skills,New,Thin Skin,薄弱皮革
+You are mastering your body control while wearing Medium armor. Your movement speed and stamina costs while wearing Medium armor decrease.,progression,skills,New,You are mastering your body control while wearing Medium armor. Your movement speed and stamina costs while wearing medium armor decrease.,你正在练习穿着轻甲时的身体控制。穿着轻甲时，你的移动速度和消耗的体力降低。
+Reduce Medium armor movement penalty by 5% and stamina penalty by 3%.,progression,skills,New,Reduce Medium armor movement penalty by 5% and stamina penalty by 3%.,中型护甲的移动惩罚减少5%，耐力惩罚减少3%
+Reduce Medium armor movement penalty by 10% and stamina penalty by 6%.,progression,skills,New,Reduce Medium armor movement penalty by 10% and stamina penalty by 6%.,中型护甲的移动惩罚减少10%，耐力惩罚减少6%
+Reduce Medium armor movement penalty by 15% and stamina penalty by 9%.,progression,skills,New,Reduce Medium armor movement penalty by 15% and stamina penalty by 9%.,中型护甲的移动惩罚减少15%，耐力惩罚减少9%
+Reduce Medium armor movement penalty by 20% and stamina penalty by 12%.,progression,skills,New,Reduce Medium armor movement penalty by 20% and stamina penalty by 12%.,中型护甲的移动惩罚减少20%，耐力惩罚减少12%
+Reduce Medium armor movement penalty by 25% and stamina penalty by 15.,progression,skills,New,Reduce Medium armor movement penalty by 25% and stamina penalty by 15.,中型护甲的移动惩罚减少25%，耐力惩罚减少15%
+Reduce Medium armor movement penalty by 30% and stamina penalty by 18%.,progression,skills,New,Reduce Medium armor movement penalty by 30% and stamina penalty by 18%.,中型护甲的移动惩罚减少30%，耐力惩罚减少18%
+Requiescat in pace. Reduce Medium armor movement penalty by 40% and the stamina penalty by 25%.,progression,skills,New,Requiescat in pace. Reduce Medium armor movement penalty by 40% and the stamina penalty by 25%.,Requiescat in pace. \n中甲的移动惩罚减少40%\n物理惩罚减少25%
+Thick Skin,progression,skills,New,Thick Skin,厚实皮革
+You are mastering your body control while wearing heavy armor. Your movement speed and stamina costs while wearing heavy armor decrease.,progression,skills,New,You are mastering your body control while wearing heavy armor. Your movement speed and stamina costs while wearing heavy armor decrease.,当你穿着重型盔甲时，你正在掌握你的身体控制。你的移动速度和耐力消耗在穿戴重型盔甲时会降低。
+Reduce Heavy armor movement and stamina penalty by 3%.,progression,skills,New,Reduce Heavy armor movement and stamina penalty by 3%.,重甲的移动惩罚和体力惩罚减少3%
+Reduce Heavy armor movement and stamina penalty by 6%.,progression,skills,New,Reduce Heavy armor movement and stamina penalty by 6%.,重甲的移动惩罚和体力惩罚减少6%
+Reduce Heavy armor movement and stamina penalty by 9%.,progression,skills,New,Reduce Heavy armor movement and stamina penalty by 9%.,重甲的移动惩罚和体力惩罚减少9%
+Reduce Heavy armor movement and stamina penalty by 12%.,progression,skills,New,Reduce Heavy armor movement and stamina penalty by 12%.,重甲的移动惩罚和体力惩罚减少12%
+Reduce Heavy armor movement and stamina penalty by 15%.,progression,skills,New,Reduce Heavy armor movement and stamina penalty by 15%.,重甲的移动惩罚和体力惩罚减少15%
+Reduce Heavy armor movement and stamina penalty by 18%.,progression,skills,New,Reduce Heavy armor movement and stamina penalty by 18%.,重甲的移动惩罚和体力惩罚减少18%
+You have mastered the weight of Heavy Armor. Reduce Heavy armor movement and stamina penalty by 25%.,progression,skills,New,You have mastered the weight of Heavy Armor. Reduce Heavy armor movement and stamina penalty by 25%.,你已经掌握了重甲的重量\n重甲的移动惩罚和体力惩罚减少25%
+Spartan,progression,skills,New,Spartan,斯巴达
+"You are mastering the arts of the spear. Your damage, attack speed and throwing range with spears increases.",progression,skills,New,"You are mastering the arts of the spear. Your damage, attack speed and throwing range with spears increases.",你正在练习长矛的技艺。你的长矛伤害、攻击速度和投掷距离增加。
+"Increase your entity damage by 7%, attack speed by 1.2% and bleed chance by 12% while using spears.",progression,skills,New,"Increase your entity damage by 7%, attack speed by 1.2% and bleed chance by 12% while using spears.","使用长矛时，你的实体伤害增加7%,攻击速度增加1.2%,出血几率增加12%。"
+"Increase your entity damage by 14%, attack speed by 2.4% and bleed chance by 24% while using spears.",progression,skills,New,"Increase your entity damage by 14%, attack speed by 2.4% and bleed chance by 24% while using spears.","使用长矛时，你的实体伤害增加14%,攻击速度增加2.4%,出血几率增加24%。"
+"Increase your entity damage by 21%, attack speed by 3.6% and bleed chance by 36% while using spears.",progression,skills,New,"Increase your entity damage by 21%, attack speed by 3.6% and bleed chance by 36% while using spears.","使用长矛时，你的实体伤害增加21%,攻击速度增加3.6%,出血几率增加36%。"
+"Increase your entity damage by 28%, attack speed by 4.8% and bleed chance by 48% while using spears.",progression,skills,New,"Increase your entity damage by 28%, attack speed by 4.8% and bleed chance by 48% while using spears.","使用长矛时，你的实体伤害增加28%,攻击速度增加4.8%,出血几率增加48%。"
+"Increase your entity damage by 35%, attack speed by 6% and bleed chance by 60% while using spears.",progression,skills,New,"Increase your entity damage by 35%, attack speed by 6% and bleed chance by 60% while using spears.","使用长矛时，你的实体伤害增加35%,攻击速度增加6%,出血几率增加60%。"
+"Increase your entity damage by 42%, attack speed by 7.2% and bleed chance by 72% while using spears.",progression,skills,New,"Increase your entity damage by 42%, attack speed by 7.2% and bleed chance by 72% while using spears.","使用长矛时，你的实体伤害增加42%,攻击速度增加7.2%,出血几率增加72%。"
+"THIS - IS - SPARTAAA!! Increase your entity damage by 50%, attack speed by 10% and bleed chance by 100% while using spears.",progression,skills,New,"THIS - IS - SPARTAAA!! Increase your entity damage by 50%, attack speed by 10% and bleed chance by 100% while using spears.","THIS - IS - SPARTAAA!!\n使用长矛时，你的实体伤害增加50%,攻击速度增加10%,出血几率增加100%。"
+Clubber,progression,skills,New,Clubber,棍击者
+You are mastering the arts of the club. Your damage and attack speed with clubs increases.,progression,skills,New,You are mastering the arts of the club. Your damage and attack speed with clubs increases.,你正在练习棍棒的技巧。你的棍棒伤害和攻击速度增加。
+Increase your entity damage by 7%. Damage is increased by an additional 12% if you hit a target while sprinting.,progression,skills,New,Increase your entity damage by 7%. Damage is increased by an additional 12% if you hit a target while sprinting.,"你的实体伤害增加7%。奔跑时击中目标,伤害额外增加12%"
+Increase your entity damage by 14%. Damage is increased by an additional 24% if you hit a target while sprinting.,progression,skills,New,Increase your entity damage by 14%. Damage is increased by an additional 24% if you hit a target while sprinting.,"你的实体伤害增加14%。奔跑时击中目标,伤害额外增加24%"
+Increase your entity damage by 21%. Damage is increased by an additional 36% if you hit a target while sprinting.,progression,skills,New,Increase your entity damage by 21%. Damage is increased by an additional 36% if you hit a target while sprinting.,"你的实体伤害增加21%。奔跑时击中目标,伤害额外增加36%"
+Increase your entity damage by 28%. Damage is increased by an additional 48% if you hit a target while sprinting.,progression,skills,New,Increase your entity damage by 28%. Damage is increased by an additional 48% if you hit a target while sprinting.,"你的实体伤害增加28%。奔跑时击中目标,伤害额外增加48%"
+Increase your entity damage by 35%. Damage is increased by an additional 60% if you hit a target while sprinting.,progression,skills,New,Increase your entity damage by 35%. Damage is increased by an additional 60% if you hit a target while sprinting.,"你的实体伤害增加35%。奔跑时击中目标,伤害额外增加60%"
+Increase your entity damage by 42%. Damage is increased by an additional 72% if you hit a target while sprinting.,progression,skills,New,Increase your entity damage by 42%. Damage is increased by an additional 72% if you hit a target while sprinting.,"你的实体伤害增加42%。奔跑时击中目标,伤害额外增加72%"
+You are Cheems with the power of Bonk. Send anyone to horny jail. Increase your entity damage by 50%. Damage is increased by an additional 100% if you hit a target while sprinting.,progression,skills,New,You are Cheems with the power of Bonk. Send anyone to horny jail. Increase your entity damage by 50%. Damage is increased by an additional 100% if you hit a target while sprinting.,"你是Cheems，拥有Bonk的力量。可以把任何人送进涩涩监狱。\n你的实体伤害增加50%。奔跑时击中目标,伤害额外增加100%"
+Hammerer,progression,skills,New,Hammerer,锤击者
+You are mastering the arts of the sledgehammer.,progression,skills,New,You are mastering the arts of the sledgehammer.,你正在练习大锤的技术
+Increase your entity damage with sledgehammers by 12% and block damage by 20%.,progression,skills,New,Increase your entity damage with sledgehammers by 12% and block damage by 20%.,"使用大锤时,你的实体伤害增加12%,物块伤害增加20%。"
+Increase your entity damage with sledgehammers by 24% and block damage by 40%.,progression,skills,New,Increase your entity damage with sledgehammers by 24% and block damage by 40%.,"使用大锤时,你的实体伤害增加25%,物块伤害增加40%。"
+Increase your entity damage with sledgehammers by 36% and block damage by 60%.,progression,skills,New,Increase your entity damage with sledgehammers by 36% and block damage by 60%.,"使用大锤时,你的实体伤害增加36%,物块伤害增加60%。"
+Increase your entity damage with sledgehammers by 48% and block damage by 80%.,progression,skills,New,Increase your entity damage with sledgehammers by 48% and block damage by 80%.,"使用大锤时,你的实体伤害增加48%,物块伤害增加80%。"
+Increase your entity damage with sledgehammers by 60% and block damage by 100%.,progression,skills,New,Increase your entity damage with sledgehammers by 60% and block damage by 100%.,"使用大锤时,你的实体伤害增加60%,物块伤害增加100%。"
+Increase your entity damage with sledgehammers by 72% and block damage by 120%.,progression,skills,New,Increase your entity damage with sledgehammers by 72% and block damage by 120%.,"使用大锤时,你的实体伤害增加72%,物块伤害增加120%。"
+You are Bob the Builder's evil twin brother! Increase your entity damage with sledgehammers by 75% and block damage by 150%.,progression,skills,New,You are Bob the Builder's evil twin brother! Increase your entity damage with sledgehammers by 75% and block damage by 150%.,"你是Bob the Builder的邪恶孪生兄弟！\n使用大锤时,你的实体伤害增加75%,物块伤害增加150%。"
+Handyman,progression,skills,New,Handyman,工匠
+You are mastering the use of tools. You are dealing more damage to blocks and work faster.,progression,skills,New,You are mastering the use of tools. You are dealing more damage to blocks and work faster.,你正在掌握工具的使用。你对方块造成的伤害增加，且工作速度更快。
+Increase tool damage by 7% and block damage by 10%. Decrease the damage you receive through falling blocks by 7% while wearing tools.,progression,skills,New,Increase tool damage by 7% and block damage by 10%. Decrease the damage you receive through falling blocks by 7% while wearing tools.,"工具伤害增加7%,物块伤害增加10%\n穿戴工具时，你受到的坠落方块伤害减少7%。"
+Increase tool damage by 14% and block damage by 20%. Decrease the damage you receive through falling blocks by 14% while wearing tools.,progression,skills,New,Increase tool damage by 14% and block damage by 20%. Decrease the damage you receive through falling blocks by 14% while wearing tools.,"工具伤害增加14%,物块伤害增加20%\n穿戴工具时，你受到的坠落方块伤害减少14%。"
+Increase tool damage by 21% and block damage by 30%. Decrease the damage you receive through falling blocks by 21% while wearing tools.,progression,skills,New,Increase tool damage by 21% and block damage by 30%. Decrease the damage you receive through falling blocks by 21% while wearing tools.,"工具伤害增加21%,物块伤害增加30%\n穿戴工具时，你受到的坠落方块伤害减少21%。"
+Increase tool damage by 28% and block damage by 40%. Decrease the damage you receive through falling blocks by 28% while wearing tools.,progression,skills,New,Increase tool damage by 28% and block damage by 40%. Decrease the damage you receive through falling blocks by 28% while wearing tools.,"工具伤害增加28%,物块伤害增加40%\n穿戴工具时，你受到的坠落方块伤害减少28%。"
+Increase tool damage by 35% and block damage by 50%. Decrease the damage you receive through falling blocks by 35% while wearing tools.,progression,skills,New,Increase tool damage by 35% and block damage by 50%. Decrease the damage you receive through falling blocks by 35% while wearing tools.,"工具伤害增加35%,物块伤害增加50%\n穿戴工具时，你受到的坠落方块伤害减少35%。"
+Increase tool damage by 42% and block damage by 60%. Decrease the damage you receive through falling blocks by 42% while wearing tools.,progression,skills,New,Increase tool damage by 42% and block damage by 60%. Decrease the damage you receive through falling blocks by 42% while wearing tools.,"工具伤害增加42%,物块伤害增加60%\n穿戴工具时，你受到的坠落方块伤害减少42%。"
+You are your friend's wife's handyman. Increase tool damage by 50% and block damage by 75%. Decrease the damage you receive through falling blocks by 50% while wearing tools.,progression,skills,New,You are your friend's wife's handyman. Increase tool damage by 50% and block damage by 75%. Decrease the damage you receive through falling blocks by 50% while wearing tools.,"你是你朋友妻子的工匠\n工具伤害增加50%,物块伤害增加75%\n穿戴工具时，你受到的坠落方块伤害减少50%"
+Martial Arts,progression,skills,New,Martial Arts,武术
+You are mastering the martial arts. Your damage and overall speed increase while using fists and knuckles.,progression,skills,New,You are mastering the martial arts. Your damage and overall speed increase while using fists and knuckles.,你正在练习武术技艺。使用拳头和指节时，你的伤害和整体速度增加。
+Increase your chance to explode heads by 1.2% and your attack and movement speed with fists and knuckles by 3%.,progression,skills,New,Increase your chance to explode heads by 1.2% and your attack and movement speed with fists and knuckles by 3%.,你的爆头概率增加1.2%，并且你拳头和指节的攻击速度和移动速度提高3%
+Increase your chance to explode heads by 2.4% and your attack and movement speed with fists and knuckles by 6%.,progression,skills,New,Increase your chance to explode heads by 2.4% and your attack and movement speed with fists and knuckles by 6%.,你的爆头概率增加2.4%，并且你拳头和指节的攻击速度和移动速度提高6%
+Increase your chance to explode heads by 3.6% and your attack and movement speed with fists and knuckles by 9%.,progression,skills,New,Increase your chance to explode heads by 3.6% and your attack and movement speed with fists and knuckles by 9%.,你的爆头概率增加3.6%，并且你拳头和指节的攻击速度和移动速度提高9%
+Increase your chance to explode heads by 4.8% and your attack and movement speed with fists and knuckles by 12%.,progression,skills,New,Increase your chance to explode heads by 4.8% and your attack and movement speed with fists and knuckles by 12%.,你的爆头概率增加4.8%，并且你拳头和指节的攻击速度和移动速度提高12%
+Increase your chance to explode heads by 6% and your attack and movement speed with fists and knuckles by 15%.,progression,skills,New,Increase your chance to explode heads by 6% and your attack and movement speed with fists and knuckles by 15%.,你的爆头概率增加6%，并且你拳头和指节的攻击速度和移动速度提高15%
+Increase your chance to explode heads by 7.2% and your attack and movement speed with fists and knuckles by 18%.,progression,skills,New,Increase your chance to explode heads by 7.2% and your attack and movement speed with fists and knuckles by 18%.,你的爆头概率增加7.2%，并且你拳头和指节的攻击速度和移动速度提高18%
+You are the Fist of the North Star. Increase your chance to explode heads by 10% and your attack and movement speed with fists and knuckles by 25%.,progression,skills,New,You are the Fist of the North Star. Increase your chance to explode heads by 10% and your attack and movement speed with fists and knuckles by 25%.,你是北斗神拳。\n你的爆头概率增加10%，并且你拳头和指节的攻击速度和移动速度提高25%
+Blademaster,progression,skills,New,Blademaster,剑术大师
+You are mastering the arts of the blade. Your attack speed and bleeding stacks increase.,progression,skills,New,You are mastering the arts of the blade. Your attack speed and bleeding stacks increase.,你正在掌握刀剑之道。你的攻击速度和出血效果叠加次数增加。
+Increase your attack speed by 7% with bladed weapons. Increase the maximum stacks of bleed you can apply by 1.,progression,skills,New,Increase your attack speed by 7% with bladed weapons. Increase the maximum stacks of bleed you can apply by 1.,使用刀剑武器时，攻击速度增加7%。最大出血叠加层数+1
+Increase your attack speed by 14% with bladed weapons. Increase the maximum stacks of bleed you can apply by 2.,progression,skills,New,Increase your attack speed by 14% with bladed weapons. Increase the maximum stacks of bleed you can apply by 2.,使用刀剑武器时，攻击速度增加14%。最大出血叠加层数+2
+Increase your attack speed by 21% with bladed weapons. Increase the maximum stacks of bleed you can apply by 3.,progression,skills,New,Increase your attack speed by 21% with bladed weapons. Increase the maximum stacks of bleed you can apply by 3.,使用刀剑武器时，攻击速度增加21%。最大出血叠加层数+3
+Increase your attack speed by 28% with bladed weapons. Increase the maximum stacks of bleed you can apply by 4.,progression,skills,New,Increase your attack speed by 28% with bladed weapons. Increase the maximum stacks of bleed you can apply by 4.,使用刀剑武器时，攻击速度增加28%。最大出血叠加层数+4
+Increase your attack speed by 35% with bladed weapons. Increase the maximum stacks of bleed you can apply by 5.,progression,skills,New,Increase your attack speed by 35% with bladed weapons. Increase the maximum stacks of bleed you can apply by 5.,使用刀剑武器时，攻击速度增加35%。最大出血叠加层数+5
+Increase your attack speed by 42% with bladed weapons. Increase the maximum stacks of bleed you can apply by 6.,progression,skills,New,Increase your attack speed by 42% with bladed weapons. Increase the maximum stacks of bleed you can apply by 6.,使用刀剑武器时，攻击速度增加42%。最大出血叠加层数+6
+The warlocks of the Blackrock clan have spoken! Increase your attack speed by 50% with bladed weapons. Increase the maximum stacks of bleed you can apply by 7.,progression,skills,New,The warlocks of the Blackrock clan have spoken! Increase your attack speed by 50% with bladed weapons. Increase the maximum stacks of bleed you can apply by 7.,The warlocks of the Blackrock clan have spoken!\n使用刀剑武器时，攻击速度增加50%。最大出血叠加层数+7
+Enforcer,progression,skills,New,Enforcer,执法者
+"You are mastering the arts of the baton. What you say, goes. Increase your entity damage and chance to knock down with batons.",progression,skills,New,"You are mastering the arts of the baton. What you say, goes. Increase your entity damage and chance to knock down with batons.","你正在练习警棍的技巧,增加你使用警棍的实体伤害和击倒几率。"
+Increase your entity damage with stun batons by 12% and an additional 7% chance to knock down enemies.,progression,skills,New,Increase your entity damage with stun batons by 12% and an additional 7% chance to knock down enemies.,眩晕棒实体伤害增加12%，7%的几率击倒敌人
+Increase your entity damage with stun batons by 24% and an additional 14% chance to knock down enemies.,progression,skills,New,Increase your entity damage with stun batons by 24% and an additional 14% chance to knock down enemies.,眩晕棒实体伤害增加24%，14%的几率击倒敌人
+Increase your entity damage with stun batons by 36% and an additional 21% chance to knock down enemies.,progression,skills,New,Increase your entity damage with stun batons by 36% and an additional 21% chance to knock down enemies.,眩晕棒实体伤害增加36%，21%的几率击倒敌人
+Increase your entity damage with stun batons by 48% and an additional 28% chance to knock down enemies.,progression,skills,New,Increase your entity damage with stun batons by 48% and an additional 28% chance to knock down enemies.,眩晕棒实体伤害增加48%，28%的几率击倒敌人
+Increase your entity damage with stun batons by 60% and an additional 35% chance to knock down enemies.,progression,skills,New,Increase your entity damage with stun batons by 60% and an additional 35% chance to knock down enemies.,眩晕棒实体伤害增加60%，35%的几率击倒敌人
+Increase your entity damage with stun batons by 72% and an additional 42% chance to knock down enemies.,progression,skills,New,Increase your entity damage with stun batons by 72% and an additional 42% chance to knock down enemies.,眩晕棒实体伤害增加72%，42%的几率击倒敌人
+STOP RESISTING!! Increase your entity damage by 100% with stun batons. Also gives you an additional 50% chance to knock down enemies.,progression,skills,New,STOP RESISTING!! Increase your entity damage by 100% with stun batons. Also gives you an additional 50% chance to knock down enemies.,停止抵抗!!!\n眩晕棒实体伤害增加100%，50%的几率击倒敌人
+Rifleman,progression,skills,New,Rifleman,步枪手
+You are mastering the arts of the rifle. Your damage and weapon handling increases.,progression,skills,New,You are mastering the arts of the rifle. Your damage and weapon handling increases.,你正在练习步枪的技巧。你的伤害和武器操作能力增强。
+Increase your entity damage and armor penetration by 7%.,progression,skills,New,Increase your entity damage and armor penetration by 7%.,增加你的实体伤害和护甲穿透7%
+Increase your entity damage and armor penetration by 14%.,progression,skills,New,Increase your entity damage and armor penetration by 14%.,增加你的实体伤害和护甲穿透14%
+Increase your entity damage and armor penetration by 21%.,progression,skills,New,Increase your entity damage and armor penetration by 21%.,增加你的实体伤害和护甲穿透21%
+Increase your entity damage and armor penetration by 28%.,progression,skills,New,Increase your entity damage and armor penetration by 28%.,增加你的实体伤害和护甲穿透28%
+Increase your entity damage and armor penetration by 35%.,progression,skills,New,Increase your entity damage and armor penetration by 35%.,增加你的实体伤害和护甲穿透35%
+Increase your entity damage and armor penetration by 42%.,progression,skills,New,Increase your entity damage and armor penetration by 42%.,增加你的实体伤害和护甲穿透42%
+You are Simo Hayha. Increase your entity damage and armor penetration by 50%.,progression,skills,New,You are Simo Hayha. Increase your entity damage and armor penetration by 50%.,你是 Simo Hayha！\n增加你的实体伤害和护甲穿透50%
+Demoman,progression,skills,New,Demoman,爆破手
+You are mastering the art of throwing dynamite around. Vastly increase your damage and the chance to dismember with explosives.,progression,skills,New,You are mastering the art of throwing dynamite around. Vastly increase your damage and the chance to dismember with explosives.,你正在掌握四处扔炸药的艺术。大幅增加你的伤害和爆炸物使肢体分离的几率。
+Increase entity damage by 8% and provides an additional 1.2% chance to dismember.,progression,skills,New,Increase entity damage by 8% and provides an additional 1.2% chance to dismember.,"实体伤害增加8%,肢解几率增加1.2%"
+Increase entity damage by 16% and provides an additional 2.4% chance to dismember.,progression,skills,New,Increase entity damage by 16% and provides an additional 2.4% chance to dismember.,"实体伤害增加16%,肢解几率增加2.4%"
+Increase entity damage by 24% and provides an additional 3.6% chance to dismember,progression,skills,New,Increase entity damage by 24% and provides an additional 3.6% chance to dismember,"实体伤害增加24%,肢解几率增加3.6%"
+Increase entity damage by 32% and provides an additional 4.8% chance to dismember.,progression,skills,New,Increase entity damage by 32% and provides an additional 4.8% chance to dismember.,"实体伤害增加32%,肢解几率增加4.8%"
+Increase entity damage by 40% and provides an additional 6% chance to dismember.,progression,skills,New,Increase entity damage by 40% and provides an additional 6% chance to dismember.,"实体伤害增加40%,肢解几率增加6%"
+Increase entity damage by 48% and provides an additional 7.2% chance to dismember.,progression,skills,New,Increase entity damage by 48% and provides an additional 7.2% chance to dismember.,"实体伤害增加48%,肢解几率增加7.2%"
+"Hey, as long as it works! Increase entity damage by 60% and provides an additional 10% chance to dismember.",progression,skills,New,"Hey, as long as it works! Increase entity damage by 60% and provides an additional 10% chance to dismember.","嘿，只要有效就行！\n实体伤害增加60%,肢解几率增加10%"
+Shotty,progression,skills,New,Shotty,霰弹枪手
+You are mastering the arts of the shotgun. Your entity damage and weapon handling increases.,progression,skills,New,You are mastering the arts of the shotgun. Your entity damage and weapon handling increases.,你正在练习霰弹枪的技巧。你的实体伤害和武器操作能力增强。
+Increase your entity damage with shotguns by 12% and reload speed by by 4%.,progression,skills,New,Increase your entity damage with shotguns by 12% and reload speed by by 4%.,霰弹枪实体伤害12%，装填速度提高4%
+Increase your entity damage with shotguns by 24% and reload speed by by 8%.,progression,skills,New,Increase your entity damage with shotguns by 24% and reload speed by by 8%.,霰弹枪实体伤害24%，装填速度提高8%
+Increase your entity damage with shotguns by 36% and reload speed by by 12%.,progression,skills,New,Increase your entity damage with shotguns by 36% and reload speed by by 12%.,霰弹枪实体伤害36%，装填速度提高12%
+Increase your entity damage with shotguns by 48% and reload speed by by 16%.,progression,skills,New,Increase your entity damage with shotguns by 48% and reload speed by by 16%.,霰弹枪实体伤害48%，装填速度提高16%
+Increase your entity damage with shotguns by 60% and reload speed by by 20%.,progression,skills,New,Increase your entity damage with shotguns by 60% and reload speed by by 20%.,霰弹枪实体伤害60%，装填速度提高20%
+Increase your entity damage with shotguns by 72% and reload speed by by 24%.,progression,skills,New,Increase your entity damage with shotguns by 72% and reload speed by by 24%.,霰弹枪实体伤害72%，装填速度提高24%
+"Hey little sister, SHOTGUN! Increase your entity damage with shotguns by 100% and reload speed by by 30%.",progression,skills,New,"Hey little sister, SHOTGUN! Increase your entity damage with shotguns by 100% and reload speed by by 30%.",嘿，小姐妹，霰弹枪！\n霰弹枪实体伤害100%，装填速度提高30%
+Marine,progression,skills,New,Marine,海军陆战队
+You are mastering the arts of automatic rifles. Your fire rate and weapon handling increases.,progression,skills,New,You are mastering the arts of automatic rifles. Your fire rate and weapon handling increases.,你正在练习自动步枪的技巧。你的射速和武器操作能力增强。
+"Increase your entity damage, weapon handling and reload speed with machine guns by 7%.",progression,skills,New,"Increase your entity damage, weapon handling and reload speed with machine guns by 7%.",使用机枪时，实体伤害、武器操作、装填速度增加7%
+"Increase your entity damage, weapon handling and reload speed with machine guns by 14%.",progression,skills,New,"Increase your entity damage, weapon handling and reload speed with machine guns by 14%.",使用机枪时，实体伤害、武器操作、装填速度增加14%
+"Increase your entity damage, weapon handling and reload speed with machine guns by 21%.",progression,skills,New,"Increase your entity damage, weapon handling and reload speed with machine guns by 21%.",使用机枪时，实体伤害、武器操作、装填速度增加21%
+"Increase your entity damage, weapon handling and reload speed with machine guns by 28%.",progression,skills,New,"Increase your entity damage, weapon handling and reload speed with machine guns by 28%.",使用机枪时，实体伤害、武器操作、装填速度增加28%
+"Increase your entity damage, weapon handling and reload speed with machine guns by 35%.",progression,skills,New,"Increase your entity damage, weapon handling and reload speed with machine guns by 35%.",使用机枪时，实体伤害、武器操作、装填速度增加35%
+"Increase your entity damage, weapon handling and reload speed with machine guns by 42%.",progression,skills,New,"Increase your entity damage, weapon handling and reload speed with machine guns by 42%.",使用机枪时，实体伤害、武器操作、装填速度增加42%
+"Live For Nothing, Or Die For Something. Increase your entity damage, weapon handling and reload speed with machine guns by 50%.",progression,skills,New,"Live For Nothing, Or Die For Something. Increase your entity damage, weapon handling and reload speed with machine guns by 50%.","无意义地活着,或者有价值地死去\n使用机枪时，实体伤害、武器操作、装填速度增加50%"
+Bowman,progression,skills,New,Bowman,弓箭手
+"You are mastering the arts of the bow. If thou are of pure heart the arrow shall miss, if thou are not, the arrow shall tear thee asunder.",progression,skills,New,"You are mastering the arts of the bow. If thou are of pure heart the arrow shall miss, if thou are not, the arrow shall tear thee asunder.",你正在练习弓箭的技巧。如果你心怀纯真，箭矢将会错过；如果不是，箭矢将把你撕裂成两半。
+"Increase your entity damage, weapon handling, reload speed with bows by 7% and prepare an additional bolt/arrow per reload.",progression,skills,New,"Increase your entity damage, weapon handling, reload speed with bows by 7% and prepare an additional bolt/arrow per reload.",使用弓箭时，实体伤害、武器操作、装填速度各7%，每次装填时额外装填1支箭
+"Increase your entity damage, weapon handling, reload speed with bows by 14% and prepare an additional bolt/arrow per reload",progression,skills,New,"Increase your entity damage, weapon handling, reload speed with bows by 14% and prepare an additional bolt/arrow per reload",使用弓箭时，实体伤害、武器操作、装填速度各14%，每次装填时额外装填1支箭
+"Increase your entity damage, weapon handling, reload speed with bows by 21% and prepare 2 additional bolts/arrows per reload.",progression,skills,New,"Increase your entity damage, weapon handling, reload speed with bows by 21% and prepare 2 additional bolts/arrows per reload.",使用弓箭时，实体伤害、武器操作、装填速度各21%，每次装填时额外装填2支箭
+"Increase your entity damage, weapon handling, reload speed with bows by 28% and prepare 2 additional bolts/arrows per reload.",progression,skills,New,"Increase your entity damage, weapon handling, reload speed with bows by 28% and prepare 2 additional bolts/arrows per reload.",使用弓箭时，实体伤害、武器操作、装填速度各28%，每次装填时额外装填2支箭
+"Increase your entity damage, weapon handling, reload speed with bows by 35% and prepare 3 additional bolts/arrows per reload",progression,skills,New,"Increase your entity damage, weapon handling, reload speed with bows by 35% and prepare 3 additional bolts/arrows per reload",使用弓箭时，实体伤害、武器操作、装填速度各35%，每次装填时额外装填3支箭
+"Increase your entity damage, weapon handling, reload speed with bows by 42% and prepare 3 additional bolts/arrows per reload.",progression,skills,New,"Increase your entity damage, weapon handling, reload speed with bows by 42% and prepare 3 additional bolts/arrows per reload.",使用弓箭时，实体伤害、武器操作、装填速度各42%，每次装填时额外装填3支箭
+"Grip it, rip it, put it in the wind! Increase your entity damage, weapon handling, reload speed with bows by 50% and prepare 4 additional bolts/arrows per reload.",progression,skills,New,"Grip it, rip it, put it in the wind! Increase your entity damage, weapon handling, reload speed with bows by 50% and prepare 4 additional bolts/arrows per reload.",握紧它，撕碎它，让它随风飘荡！\n使用弓箭时，实体伤害、武器操作、装填速度各50%，每次装填时额外装填4支箭
+Sharpshooter,progression,skills,New,Sharpshooter,神枪手
+You are mastering the arts of sidearms. Every aspect of handgun handling increases.,progression,skills,New,You are mastering the arts of sidearms. Every aspect of handgun handling increases.,你正在练习手枪的技术。手枪的各方面操作能力都在增强。
+"Increase your fire rate, clip size and weapon handling by 7%, additionally reduces weapon degradation by 7%.",progression,skills,New,"Increase your fire rate, clip size and weapon handling by 7%, additionally reduces weapon degradation by 7%.",射击速度速、弹匣容量和武器操作能力提高7%，武器磨损减少7%
+"Increase your fire rate, clip size and weapon handling by 14%, additionally reduces weapon degradation by 14%.",progression,skills,New,"Increase your fire rate, clip size and weapon handling by 14%, additionally reduces weapon degradation by 14%.",射击速度速、弹匣容量和武器操作能力提高14%，武器磨损减少14%
+"Increase your fire rate, clip size and weapon handling by 21%, additionally reduces weapon degradation by 21%.",progression,skills,New,"Increase your fire rate, clip size and weapon handling by 21%, additionally reduces weapon degradation by 21%.",射击速度速、弹匣容量和武器操作能力提高21%，武器磨损减少21%
+"Increase your fire rate, clip size and weapon handling by 28%, additionally reduces weapon degradation by 28%.",progression,skills,New,"Increase your fire rate, clip size and weapon handling by 28%, additionally reduces weapon degradation by 28%.",射击速度速、弹匣容量和武器操作能力提高28%，武器磨损减少28%
+"Increase your fire rate, clip size and weapon handling by 35%, additionally reduces weapon degradation by 35%.",progression,skills,New,"Increase your fire rate, clip size and weapon handling by 35%, additionally reduces weapon degradation by 35%.",射击速度速、弹匣容量和武器操作能力提高35%，武器磨损减少35%
+"Increase your fire rate, clip size and weapon handling by 42%, additionally reduces weapon degradation by 42%.",progression,skills,New,"Increase your fire rate, clip size and weapon handling by 42%, additionally reduces weapon degradation by 42%.",射击速度速、弹匣容量和武器操作能力提高42%，武器磨损减少42%
+"The good, the bad and the ugly. Increase your fire rate, clip size and weapon handling by 50%, additionally reduces weapon degradation by 50%.",progression,skills,New,"The good, the bad and the ugly. Increase your fire rate, clip size and weapon handling by 50%, additionally reduces weapon degradation by 50%.","The good, the bad and the ugly. \n射击速度速、弹匣容量和武器操作能力提高50%，武器磨损减少50%"
+Robotics,progression,skills,New,Robotics,机器人技术
+You are mastering the art of robotics. Your turret control range and magazine size increases.,progression,skills,New,You are mastering the art of robotics. Your turret control range and magazine size increases.,你正在学习机器人技术。你的炮塔控制范围和弹匣容量增加。
+"Increase the entity damage by 7%, magazine size by 12 and the maximum active range of junk turrets by 12%.",progression,skills,New,"Increase the entity damage by 7%, magazine size by 12 and the maximum active range of junk turrets by 12%.",增加7%的实体伤害，增加12发弹匣容量，增加废品炮塔的最大有效射程12%。
+"Increase the entity damage by 14%, magazine size by 24 and the maximum active range of junk turrets by 24%.",progression,skills,New,"Increase the entity damage by 14%, magazine size by 24 and the maximum active range of junk turrets by 24%.",增加14%的实体伤害，增加14发弹匣容量，增加废品炮塔的最大有效射程24%。
+"Increase the entity damage by 21%, magazine size by 36 and the maximum active range of junk turrets by 36%.",progression,skills,New,"Increase the entity damage by 21%, magazine size by 36 and the maximum active range of junk turrets by 36%.",增加21%的实体伤害，增加21发弹匣容量，增加废品炮塔的最大有效射程36%。
+"Increase the entity damage by 28%, magazine size by 48 and the maximum active range of junk turrets by 48%.",progression,skills,New,"Increase the entity damage by 28%, magazine size by 48 and the maximum active range of junk turrets by 48%.",增加28%的实体伤害，增加28发弹匣容量，增加废品炮塔的最大有效射程48%。
+"Increase the entity damage by 35%, magazine size by 60 and the maximum active range of junk turrets by 60%.",progression,skills,New,"Increase the entity damage by 35%, magazine size by 60 and the maximum active range of junk turrets by 60%.",增加35%的实体伤害，增加60发弹匣容量，增加废品炮塔的最大有效射程60%。
+"Increase the entity damage by 42%, magazine size by 72 and the maximum active range of junk turrets by 72%.",progression,skills,New,"Increase the entity damage by 42%, magazine size by 72 and the maximum active range of junk turrets by 72%.",增加42%的实体伤害，增加72发弹匣容量，增加废品炮塔的最大有效射程72%。
+"Very crude systems can accomplish an awful lot! Increase the entity damage by 50%, magazine size by 100, the maximum active range of junk turrets by 100% and can have 1 additional active turret.",progression,skills,New,"Very crude systems can accomplish an awful lot! Increase the entity damage by 50%, magazine size by 100, the maximum active range of junk turrets by 100% and can have 1 additional active turret.",非常简陋的系统也能完成很多事情！\n增加50%的实体伤害，增加100发弹匣容量，增加废品炮塔的最大有效射程100%。
+Requires Mother Lode lvl 1,progression,skills,New,Requires Mother Lode lvl 1,母矿等级 1
+Requires Mother Lode lvl 2,progression,skills,New,Requires Mother Lode lvl 2,"母矿等级 2 "
+Requires Mother Lode lvl 3,progression,skills,New,Requires Mother Lode lvl 3,母矿等级 3
+Requires Mother Lode lvl 4,progression,skills,New,Requires Mother Lode lvl 4,母矿等级 4
+Requires The Penetrator lvl 1,progression,skills,New,Requires The Penetrator lvl 1,穿透护甲等级 1
+Requires The Penetrator lvl 2,progression,skills,New,Requires The Penetrator lvl 2,穿透护甲等级 2
+Requires The Penetrator lvl 3,progression,skills,New,Requires The Penetrator lvl 3,穿透护甲等级 3
+Requires Lucky Looter lvl 1,progression,skills,New,Requires Lucky Looter lvl 1,幸运掠夺者等级 1
+Requires Lucky Looter lvl 2,progression,skills,New,Requires Lucky Looter lvl 2,幸运掠夺者等级 2
+Requires Lucky Looter lvl 3,progression,skills,New,Requires Lucky Looter lvl 3,幸运掠夺者等级 3
+Requires Lucky Looter lvl 4,progression,skills,New,Requires Lucky Looter lvl 4,幸运掠夺者等级 4
+Requires Better Barter lvl 1,progression,skills,New,Requires Better Barter lvl 1,贸易砍价等级 1
+Requires Better Barter lvl 2,progression,skills,New,Requires Better Barter lvl 2,贸易砍价等级 2
+Requires Better Barter lvl 3,progression,skills,New,Requires Better Barter lvl 3,贸易砍价等级 3
+Requires Better Barter lvl 4,progression,skills,New,Requires Better Barter lvl 4,贸易砍价等级 4
+Requires Light Armor lvl 1,progression,skills,New,Requires Light Armor lvl 1,轻甲等级 1
+Requires Light Armor lvl 2,progression,skills,New,Requires Light Armor lvl 2,轻甲等级 2
+Requires Light Armor lvl 3,progression,skills,New,Requires Light Armor lvl 3,轻甲等级 3
+Requires Heavy Armor lvl 1,progression,skills,New,Requires Heavy Armor lvl 1,重甲等级 1
+Requires Heavy Armor lvl 2,progression,skills,New,Requires Heavy Armor lvl 2,重甲等级 2
+Requires Heavy Armor lvl 3,progression,skills,New,Requires Heavy Armor lvl 3,重甲等级 3
+Requires Spear Master lvl 1,progression,skills,New,Requires Spear Master lvl 1,长矛大师等级 1
+Requires Spear Master lvl 2,progression,skills,New,Requires Spear Master lvl 2,长矛大师等级 2
+Requires Spear Master lvl 3,progression,skills,New,Requires Spear Master lvl 3,长矛大师等级 3
+Requires Spear Master lvl 4,progression,skills,New,Requires Spear Master lvl 4,长矛大师等级 4
+Requires Pummel Pete lvl 1,progression,skills,New,Requires Pummel Pete lvl 1,击球手佩特等级 1
+Requires Pummel Pete lvl 2,progression,skills,New,Requires Pummel Pete lvl 2,击球手佩特等级 2
+Requires Pummel Pete lvl 3,progression,skills,New,Requires Pummel Pete lvl 3,击球手佩特等级 3
+Requires Pummel Pete lvl 4,progression,skills,New,Requires Pummel Pete lvl 4,击球手佩特等级 4
+Requires Skull Crusher lvl 1,progression,skills,New,Requires Skull Crusher lvl 1,头骨粉碎者等级 1
+Requires Skull Crusher lvl 2,progression,skills,New,Requires Skull Crusher lvl 2,头骨粉碎者等级 2
+Requires Skull Crusher lvl 3,progression,skills,New,Requires Skull Crusher lvl 3,头骨粉碎者等级 3
+Requires Skull Crusher lvl 4,progression,skills,New,Requires Skull Crusher lvl 4,头骨粉碎者等级 4
+Requires Miner 69'er lvl 1,progression,skills,New,Requires Miner 69'er lvl 1,矿业69族等级 1
+Requires Miner 69'er lvl 2,progression,skills,New,Requires Miner 69'er lvl 2,矿业69族等级 2
+Requires Miner 69'er lvl 3,progression,skills,New,Requires Miner 69'er lvl 3,矿业69族等级 3
+Requires Miner 69'er lvl 4,progression,skills,New,Requires Miner 69'er lvl 4,矿业69族等级 4
+Requires Brawler lvl 1,progression,skills,New,Requires Brawler lvl 1,搏斗家等级 1
+Requires Brawler lvl 2,progression,skills,New,Requires Brawler lvl 2,搏斗家等级 2
+Requires Brawler lvl 3,progression,skills,New,Requires Brawler lvl 3,搏斗家等级 3
+Requires Brawler lvl 4,progression,skills,New,Requires Brawler lvl 4,搏斗家等级 4
+Requires Deep Cuts lvl 1,progression,skills,New,Requires Deep Cuts lvl 1,深度刀伤等级 1
+Requires Deep Cuts lvl 2,progression,skills,New,Requires Deep Cuts lvl 2,深度刀伤等级 2
+Requires Deep Cuts lvl 3,progression,skills,New,Requires Deep Cuts lvl 3,深度刀伤等级 3
+Requires Deep Cuts lvl 4,progression,skills,New,Requires Deep Cuts lvl 4,深度刀伤等级 4
+Requires Electrocutioner lvl 1,progression,skills,New,Requires Electrocutioner lvl 1,电击处刑官等级 1
+Requires Electrocutioner lvl 2,progression,skills,New,Requires Electrocutioner lvl 2,电击处刑官等级 2
+Requires Electrocutioner lvl 3,progression,skills,New,Requires Electrocutioner lvl 3,电击处刑官等级 3
+Requires Electrocutioner lvl 4,progression,skills,New,Requires Electrocutioner lvl 4,电击处刑官等级 4
+Requires Dead Eye lvl 1,progression,skills,New,Requires Dead Eye lvl 1,死神之眼等级 1
+Requires Dead Eye lvl 2,progression,skills,New,Requires Dead Eye lvl 2,死神之眼等级 2
+Requires Dead Eye lvl 3,progression,skills,New,Requires Dead Eye lvl 3,死神之眼等级 3
+Requires Dead Eye lvl 4,progression,skills,New,Requires Dead Eye lvl 4,死神之眼等级 4
+Requires Demolitions Expert lvl 1,progression,skills,New,Requires Demolitions Expert lvl 1,爆破专家等级 1
+Requires Demolitions Expert lvl 2,progression,skills,New,Requires Demolitions Expert lvl 2,爆破专家等级 2
+Requires Demolitions Expert lvl 3,progression,skills,New,Requires Demolitions Expert lvl 3,爆破专家等级 3
+Requires Demolitions Expert lvl 4,progression,skills,New,Requires Demolitions Expert lvl 4,爆破专家等级 4
+Requires Boomstick lvl 1,progression,skills,New,Requires Boomstick lvl 1,霰弹枪手等级 1
+Requires Boomstick lvl 2,progression,skills,New,Requires Boomstick lvl 2,霰弹枪手等级 2
+Requires Boomstick lvl 3,progression,skills,New,Requires Boomstick lvl 3,霰弹枪手等级 3
+Requires Boomstick lvl 4,progression,skills,New,Requires Boomstick lvl 4,霰弹枪手等级 4
+Requires Machine Gunner lvl 1,progression,skills,New,Requires Machine Gunner lvl 1,机枪射手等级 1
+Requires Machine Gunner lvl 2,progression,skills,New,Requires Machine Gunner lvl 2,机枪射手等级 2
+Requires Machine Gunner lvl 3,progression,skills,New,Requires Machine Gunner lvl 3,机枪射手等级 3
+Requires Machine Gunner lvl 4,progression,skills,New,Requires Machine Gunner lvl 4,机枪射手等级 4
+Requires Archery lvl 1,progression,skills,New,Requires Archery lvl 1,弓术等级 1
+Requires Archery lvl 2,progression,skills,New,Requires Archery lvl 2,弓术等级 2
+Requires Archery lvl 3,progression,skills,New,Requires Archery lvl 3,弓术等级 3
+Requires Archery lvl 4,progression,skills,New,Requires Archery lvl 4,弓术等级 4
+Requires Gunslinger lvl 1,progression,skills,New,Requires Gunslinger lvl 1,枪手等级 1
+Requires Gunslinger lvl 2,progression,skills,New,Requires Gunslinger lvl 2,枪手等级 2
+Requires Gunslinger lvl 3,progression,skills,New,Requires Gunslinger lvl 3,枪手等级 3
+Requires Gunslinger lvl 4,progression,skills,New,Requires Gunslinger lvl 4,枪手等级 4
+Requires Robotics Inventor lvl 1,progression,skills,New,Requires Robotics Inventor lvl 1,机器人发明家等级 1
+Requires Robotics Inventor lvl 2,progression,skills,New,Requires Robotics Inventor lvl 2,机器人发明家等级 2
+Requires Robotics Inventor lvl 3,progression,skills,New,Requires Robotics Inventor lvl 3,机器人发明家等级 3
+Requires Robotics Inventor lvl 4,progression,skills,New,Requires Robotics Inventor lvl 4,机器人发明家等级 4

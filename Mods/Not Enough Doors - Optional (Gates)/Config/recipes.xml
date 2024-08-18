@@ -1,0 +1,36 @@
+<PaperSama0104>
+
+<!-- Add variant helper recipes -->
+<append xpath="/recipes">
+
+	<!-- *** Gates -->
+<recipe name="NEDwoodGateBlockVariantHelper" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceWood" count="30"/>
+	<ingredient name="resourceSpring" count="30"/>
+	<ingredient name="resourceMechanicalParts" count="30"/>
+</recipe>
+
+<recipe name="NEDironGateBlockVariantHelper" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="30"/>
+	<ingredient name="resourceSpring" count="30"/>
+	<ingredient name="resourceMechanicalParts" count="30"/>
+</recipe>
+
+<recipe name="NEDsteelGateBlockVariantHelper" count="1" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="30"/>
+	<ingredient name="resourceSpring" count="30"/>
+	<ingredient name="resourceMechanicalParts" count="30"/>
+</recipe>
+
+<recipe name="NEDsteel_PoweredGateBlockVariantHelper" count="1" craft_area="workbench" tags="perkAdvancedEngineering,learnable">
+	<ingredient name="resourceForgedSteel" count="46"/>
+	<ingredient name="resourceSpring" count="46"/>
+	<ingredient name="resourceMechanicalParts" count="46"/>
+	<ingredient name="resourceElectricParts" count="46"/>
+	<effect_group>
+		<passive_effect name="CraftingIngredientCount" level="0,1,2,3,4" operation="perc_add" value=".56,.56,.56,.34,.15" tags="resourceForgedSteel,resourceSpring,resourceMechanicalParts,resourceElectricParts"/>
+	</effect_group>
+</recipe>
+</append>
+
+</PaperSama0104>

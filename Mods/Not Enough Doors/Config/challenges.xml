@@ -1,0 +1,6 @@
+<PaperSama0104>
+
+<!-- Replace vanilla door with NED door in homesteading challenge -->
+<set xpath="/challenges/challenge[@name='placeDoor']/objective[@type='BlockPlace']/@block">NEDwoodDoorBlockVariantHelper</set>
+
+</PaperSama0104>

@@ -1,0 +1,283 @@
+<config>
+
+	<append xpath="/items">
+	<!--
+		<item name="qt_jack">
+			<property name="Extends" value="treasureQuestMaster" param1="CustomIcon"/>
+			<property name="CustomIcon" value="QuestJackstreasure"/>
+			<property class="Action0">
+				<property name="QuestGiven" value="tier4_buried_supplies"/>
+			</property>
+		</item> -->
+		
+		<item name="questRewardBicyclePartsBundle">
+			<property name="Extends" value="noteTestersDelightAdmin"/>
+			<property name="CreativeMode" value="Player"/>
+			<property name="CustomIcon" value="bundleVehicleMiniBike"/>
+			<property name="CustomIconTint" value="FFFFFF"/>
+			<property name="ItemTypeIcon" value="bundle"/>
+			<property name="DescriptionKey" value="questRewardVechileBundleDesc"/>
+			<property class="Action0">
+				<property name="Create_item" value="vehicleWheels"/>
+				<property name="Create_item_count" value="2"/>
+				<property name="Random_item" value="vehicleBicycleChassis,vehicleBicycleHandlebars"/>
+				<property name="Random_item_count" value="1,1"/>
+				<property name="Random_count" value="2"/>
+				<property name="Unique_random_only" value="true"/>
+			</property>
+		</item>
+		
+		<item name="T1_Nocturnal_fetch_clear">
+				<property name="CreativeMode" value="Player"/>
+				<property name="HoldType" value="21"/>
+				<property name="Meshfile" value="@Other/Items?Misc/bookPrefab.prefab"/>
+				<property name="DropMeshfile" value="@Other/Items?Misc/sack_droppedPrefab.prefab"/>
+				<property name="Material" value="MresourcePaper"/>
+				<property name="CustomIcon" value="bookQuestNocturnal"/>
+				<property name="Stacknumber" value="1"/> 
+				<property name="EconomicValue" value="33.34"/>
+				<property name="SellableToTrader" value="true"/>
+				<property class="Action1">
+					<property name="Class" value="Quest"/>
+					<property name="Delay" value="0"/>
+					<property name="QuestGiven" value="tier1_Nocturnal_fetch_clear"/>
+					<property name="UseAnimation" value="false"/>
+				</property>
+				<property name="FuelValue" value="2"/>
+				<property name="Weight" value="2"/>
+				<property name="Group" value="Special Items"/>
+		</item>
+		
+		<item name="T2_Nocturnal_fetch_clear">
+				<property name="CreativeMode" value="Player"/>
+				<property name="HoldType" value="21"/>
+				<property name="Meshfile" value="@Other/Items?Misc/bookPrefab.prefab"/>
+				<property name="DropMeshfile" value="@Other/Items?Misc/sack_droppedPrefab.prefab"/>
+				<property name="Material" value="MresourcePaper"/>
+				<property name="CustomIcon" value="bookQuestNocturnal"/>
+				<property name="Stacknumber" value="1"/> 
+				<property name="EconomicValue" value="33.34"/>
+				<property name="SellableToTrader" value="true"/>
+				<property class="Action1">
+					<property name="Class" value="Quest"/>
+					<property name="Delay" value="0"/>
+					<property name="QuestGiven" value="tier2_Nocturnal_fetch_clear"/>
+					<property name="UseAnimation" value="false"/>
+				</property>
+				<property name="FuelValue" value="2"/>
+				<property name="Weight" value="2"/>
+				<property name="Group" value="Special Items"/>
+		</item>
+		
+		<item name="T3_Nocturnal_fetch_clear">
+				<property name="CreativeMode" value="Player"/>
+				<property name="HoldType" value="21"/>
+				<property name="Meshfile" value="@Other/Items?Misc/bookPrefab.prefab"/>
+				<property name="DropMeshfile" value="@Other/Items?Misc/sack_droppedPrefab.prefab"/>
+				<property name="Material" value="MresourcePaper"/>
+				<property name="CustomIcon" value="bookQuestNocturnal"/>
+				<property name="Stacknumber" value="1"/> 
+				<property name="EconomicValue" value="33.34"/>
+				<property name="SellableToTrader" value="true"/>
+				<property class="Action1">
+					<property name="Class" value="Quest"/>
+					<property name="Delay" value="0"/>
+					<property name="QuestGiven" value="tier3_Nocturnal_fetch_clear"/>
+					<property name="UseAnimation" value="false"/>
+				</property>
+				<property name="FuelValue" value="2"/>
+				<property name="Weight" value="2"/>
+				<property name="Group" value="Special Items"/>
+		</item>
+		
+		<item name="T4_Nocturnal_fetch_clear">
+				<property name="CreativeMode" value="Player"/>
+				<property name="HoldType" value="21"/>
+				<property name="Meshfile" value="@Other/Items?Misc/bookPrefab.prefab"/>
+				<property name="DropMeshfile" value="@Other/Items?Misc/sack_droppedPrefab.prefab"/>
+				<property name="Material" value="MresourcePaper"/>
+				<property name="CustomIcon" value="bookQuestNocturnal"/>
+				<property name="Stacknumber" value="1"/> 
+				<property name="EconomicValue" value="33.34"/>
+				<property name="SellableToTrader" value="true"/>
+				<property class="Action1">
+					<property name="Class" value="Quest"/>
+					<property name="Delay" value="0"/>
+					<property name="QuestGiven" value="tier4_Nocturnal_fetch_clear"/>
+					<property name="UseAnimation" value="false"/>
+				</property>
+				<property name="FuelValue" value="2"/>
+				<property name="Weight" value="2"/>
+				<property name="Group" value="Special Items"/>
+		</item>
+		
+		<item name="T5_Nocturnal_fetch_clear">
+				<property name="CreativeMode" value="Player"/>
+				<property name="HoldType" value="21"/>
+				<property name="Meshfile" value="@Other/Items?Misc/bookPrefab.prefab"/>
+				<property name="DropMeshfile" value="@Other/Items?Misc/sack_droppedPrefab.prefab"/>
+				<property name="Material" value="MresourcePaper"/>
+				<property name="CustomIcon" value="bookQuestNocturnal"/>
+				<property name="Stacknumber" value="1"/> 
+				<property name="EconomicValue" value="33.34"/>
+				<property name="SellableToTrader" value="true"/>
+				<property class="Action1">
+					<property name="Class" value="Quest"/>
+					<property name="Delay" value="0"/>
+					<property name="QuestGiven" value="tier5_Nocturnal_fetch_clear"/>
+					<property name="UseAnimation" value="false"/>
+				</property>
+				<property name="FuelValue" value="2"/>
+				<property name="Weight" value="2"/>
+				<property name="Group" value="Special Items"/>
+		</item>
+		<!--
+		<item name="Killing_from_the_Shadows">
+				<property name="CreativeMode" value="Player"/>
+				<property name="HoldType" value="21"/>
+				<property name="Meshfile" value="@Other/Items?Misc/bookPrefab.prefab"/>
+				<property name="DropMeshfile" value="@Other/Items?Misc/sack_droppedPrefab.prefab"/>
+				<property name="Material" value="MresourcePaper"/>
+				<property name="CustomIcon" value="bookQuestDarkness"/>
+				<property name="Stacknumber" value="1"/> 
+				<property name="EconomicValue" value="33.34"/>
+				<property name="SellableToTrader" value="true"/>
+				<property class="Action1">
+					<property name="Class" value="Quest"/>
+					<property name="Delay" value="0"/>
+					<property name="QuestGiven" value="challenge_Darkness"/>
+					<property name="UseAnimation" value="false"/>
+				</property>
+				<property name="FuelValue" value="2"/>
+				<property name="Weight" value="2"/>
+				<property name="Group" value="Special Items"/>
+		</item>
+
+		<item name="Killing_from_the_Shadows_cops">
+				<property name="CreativeMode" value="Player"/>
+				<property name="HoldType" value="21"/>
+				<property name="Meshfile" value="@Other/Items?Misc/bookPrefab.prefab"/>
+				<property name="DropMeshfile" value="@Other/Items?Misc/sack_droppedPrefab.prefab"/>
+				<property name="Material" value="MresourcePaper"/>
+				<property name="CustomIcon" value="bookQuestDarkness"/>
+				<property name="Stacknumber" value="1"/> 
+				<property name="EconomicValue" value="33.34"/>
+				<property name="SellableToTrader" value="true"/>
+				<property class="Action1">
+					<property name="Class" value="Quest"/>
+					<property name="Delay" value="0"/>
+					<property name="QuestGiven" value="challenge_Darkness2"/>
+					<property name="UseAnimation" value="false"/>
+				</property>
+				<property name="FuelValue" value="2"/>
+				<property name="Weight" value="2"/>
+				<property name="Group" value="Special Items"/>
+		</item>
+		
+		<item name="Killing_from_the_Shadows_Demolition">
+				<property name="CreativeMode" value="Player"/>
+				<property name="HoldType" value="21"/>
+				<property name="Meshfile" value="@Other/Items?Misc/bookPrefab.prefab"/>
+				<property name="DropMeshfile" value="@Other/Items?Misc/sack_droppedPrefab.prefab"/>
+				<property name="Material" value="MresourcePaper"/>
+				<property name="CustomIcon" value="bookQuestDarkness"/>
+				<property name="Stacknumber" value="1"/> 
+				<property name="EconomicValue" value="33.34"/>
+				<property name="SellableToTrader" value="true"/>
+				<property class="Action1">
+					<property name="Class" value="Quest"/>
+					<property name="Delay" value="0"/>
+					<property name="QuestGiven" value="challenge_Darkness3"/>
+					<property name="UseAnimation" value="false"/>
+				</property>
+				<property name="FuelValue" value="2"/>
+				<property name="Weight" value="2"/>
+				<property name="Group" value="Special Items"/>
+		</item>
+		
+		<item name="Killing_from_the_Shadows_Mutated">
+				<property name="CreativeMode" value="Player"/>
+				<property name="HoldType" value="21"/>
+				<property name="Meshfile" value="@Other/Items?Misc/bookPrefab.prefab"/>
+				<property name="DropMeshfile" value="@Other/Items?Misc/sack_droppedPrefab.prefab"/>
+				<property name="Material" value="MresourcePaper"/>
+				<property name="CustomIcon" value="bookQuestDarkness"/>
+				<property name="Stacknumber" value="1"/> 
+				<property name="EconomicValue" value="33.34"/>
+				<property name="SellableToTrader" value="true"/>
+				<property class="Action1">
+					<property name="Class" value="Quest"/>
+					<property name="Delay" value="0"/>
+					<property name="QuestGiven" value="challenge_Darkness4"/>
+					<property name="UseAnimation" value="false"/>
+				</property>
+				<property name="FuelValue" value="2"/>
+				<property name="Weight" value="2"/>
+				<property name="Group" value="Special Items"/>
+		</item>
+		
+		<item name="Killing_from_the_Shadows_Spiders">
+				<property name="CreativeMode" value="Player"/>
+				<property name="HoldType" value="21"/>
+				<property name="Meshfile" value="@Other/Items?Misc/bookPrefab.prefab"/>
+				<property name="DropMeshfile" value="@Other/Items?Misc/sack_droppedPrefab.prefab"/>
+				<property name="Material" value="MresourcePaper"/>
+				<property name="CustomIcon" value="bookQuestDarkness"/>
+				<property name="Stacknumber" value="1"/> 
+				<property name="EconomicValue" value="33.34"/>
+				<property name="SellableToTrader" value="true"/>
+				<property class="Action1">
+					<property name="Class" value="Quest"/>
+					<property name="Delay" value="0"/>
+					<property name="QuestGiven" value="challenge_Darkness5"/>
+					<property name="UseAnimation" value="false"/>
+				</property>
+				<property name="FuelValue" value="2"/>
+				<property name="Weight" value="2"/>
+				<property name="Group" value="Special Items"/>
+		</item>
+		
+		<item name="Killing_from_the_Shadows_Radiated">
+				<property name="CreativeMode" value="Player"/>
+				<property name="HoldType" value="21"/>
+				<property name="Meshfile" value="@Other/Items?Misc/bookPrefab.prefab"/>
+				<property name="DropMeshfile" value="@Other/Items?Misc/sack_droppedPrefab.prefab"/>
+				<property name="Material" value="MresourcePaper"/>
+				<property name="CustomIcon" value="bookQuestDarkness"/>
+				<property name="Stacknumber" value="1"/> 
+				<property name="EconomicValue" value="33.34"/>
+				<property name="SellableToTrader" value="true"/>
+				<property class="Action1">
+					<property name="Class" value="Quest"/>
+					<property name="Delay" value="0"/>
+					<property name="QuestGiven" value="challenge_Darkness6"/>
+					<property name="UseAnimation" value="false"/>
+				</property>
+				<property name="FuelValue" value="2"/>
+				<property name="Weight" value="2"/>
+				<property name="Group" value="Special Items"/>
+		</item>
+		
+		<item name="Killing_from_the_Shadows_Tourist">
+				<property name="CreativeMode" value="Player"/>
+				<property name="HoldType" value="21"/>
+				<property name="Meshfile" value="@Other/Items?Misc/bookPrefab.prefab"/>
+				<property name="DropMeshfile" value="@Other/Items?Misc/sack_droppedPrefab.prefab"/>
+				<property name="Material" value="MresourcePaper"/>
+				<property name="CustomIcon" value="bookQuestDarkness"/>
+				<property name="Stacknumber" value="1"/> 
+				<property name="EconomicValue" value="33.34"/>
+				<property name="SellableToTrader" value="true"/>
+				<property class="Action1">
+					<property name="Class" value="Quest"/>
+					<property name="Delay" value="0"/>
+					<property name="QuestGiven" value="challenge_Darkness7"/>
+					<property name="UseAnimation" value="false"/>
+				</property>
+				<property name="FuelValue" value="2"/>
+				<property name="Weight" value="2"/>
+				<property name="Group" value="Special Items"/>
+		</item>  -->
+		
+	</append>
+</config>

@@ -1,0 +1,8 @@
+<PaperSama0104>
+
+<!-- Add new powered door variant helpers to unlocked entry and recipe tag -->
+<append xpath="/progression/crafting_skills/crafting_skill[@name='craftingElectrician']/display_entry[@name_key='electricianT4']/unlock_entry/@item">,NEDsteel_PoweredDoorBlockVariantHelper,NEDsteel_PoweredCellarBlockVariantHelper,NEDsteel_PoweredRollUpBlockVariantHelper,NEDsteel_PoweredGarageBlockVariantHelper,NEDsteel_PoweredFoldUpBlockVariantHelper,NEDsteel_PoweredHatchBlockVariantHelper,NEDsteel_PoweredShuttersBlockVariantHelper</append>
+
+<append xpath="/progression/crafting_skills/crafting_skill[@name='craftingElectrician']/effect_group/passive_effect[@name='RecipeTagUnlocked' and @level='75,100']/@tags">,NEDsteel_PoweredDoorBlockVariantHelper,NEDsteel_PoweredCellarBlockVariantHelper,NEDsteel_PoweredRollUpBlockVariantHelper,NEDsteel_PoweredGarageBlockVariantHelper,NEDsteel_PoweredFoldUpBlockVariantHelper,NEDsteel_PoweredHatchBlockVariantHelper,NEDsteel_PoweredShuttersBlockVariantHelper</append>
+
+</PaperSama0104>

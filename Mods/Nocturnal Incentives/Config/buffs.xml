@@ -1,0 +1,62 @@
+<config>
+	<append xpath="/buffs">
+	
+		<!-- Night Time EXP Buff -->
+	<buff name="buffNightExpBoost" name_key="Nocturnal Perception" description_key="buffNightExpBoostDesc" icon="ui_game_symbol_XPBoost">
+		<stack_type value="ignore"/>
+		<effect_group>
+			<requirement name="IsNight"/>
+			<passive_effect name="PlayerExpGain" operation="perc_add" value="1" tags="Kill" />
+		</effect_group>
+		
+	</buff>
+	
+	<buff name="buffNightExpBoostStart" hidden="true">
+		<stack_type value="ignore"/>
+		<update_rate value="1"/>
+		<effect_group>
+			<requirement name="IsNight"/>
+			<triggered_effect trigger="onSelfBuffUpdate" action="AddBuff" buff="buffNightExpBoost"/>
+		</effect_group>
+	</buff>
+	
+	<buff name="buffNightExpBoostEnd" tooltip_key="Nocturnal Perception" hidden="true">
+		<stack_type value="ignore"/>
+		<update_rate value="1"/>
+		<effect_group>
+			<requirement name="IsDay"/>
+			<triggered_effect trigger="onSelfBuffUpdate" action="RemoveBuff" buff="buffNightExpBoost"/>
+		</effect_group>
+	</buff>
+	
+			<!-- Night Time Gamestage Buff -->
+	<buff name="buffNightGamestageBoost" name_key="Nocturnal Danger" description_key="buffNightGamestageBoostDesc" icon="ui_game_symbol_LootBoost">
+		<stack_type value="ignore"/>
+		<effect_group>
+			<requirement name="IsNight"/>
+			<passive_effect name="LootStage" operation="base_add" value="20"/>
+			<passive_effect name="LootStage" operation="perc_add" value=".1"/>
+		</effect_group>
+		
+	</buff>
+	
+	<buff name="buffNightGamestageBoostStart" hidden="true">
+		<stack_type value="ignore"/>
+		<update_rate value="1"/>
+		<effect_group>
+			<requirement name="IsNight"/>
+			<triggered_effect trigger="onSelfBuffUpdate" action="AddBuff" buff="buffNightGamestageBoost"/>
+		</effect_group>
+	</buff>
+	
+	<buff name="buffNightGamestageBoostEnd" hidden="true">
+		<stack_type value="ignore"/>
+		<update_rate value="1"/>
+		<effect_group>
+			<requirement name="IsDay"/>
+			<triggered_effect trigger="onSelfBuffUpdate" action="RemoveBuff" buff="buffNightGamestageBoost"/>
+		</effect_group>
+	</buff>
+
+	</append>
+</config>

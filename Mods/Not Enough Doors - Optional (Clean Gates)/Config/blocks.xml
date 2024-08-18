@@ -1,0 +1,232 @@
+<PaperSama0104>
+
+<!-- 
+If you want to edit the health of the gates, see the following for consistency:
+// WOOD //
+* NEDwoodGate_chainlinkGateDouble_Clean			;	MaxDamage, MeshDamage
+  > NEDwoodGate_chainlinkGateDoubleWide_Clean	;	MeshDamage
+// IRON, STEEL, STEEL_POWERED //
+! iron, steel, and steel_powered follows the above blocks,
+! just use NEDiron, NEDsteel, and NEDsteel_Powered instead
+ -->
+
+<append xpath="/blocks">
+<!-- *** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+<!-- **** NED_WOOD -->
+<!-- *** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+
+	<!-- *** Gates -->
+<block name="NEDwoodGate_chainlinkGateDouble_Clean">
+	<property name="Extends" value="NEDwoodDoor_oldWoodDoor_Clean"/>
+	<property name="OpenSound" value="gate_chainlink_open"/>
+	<property name="CloseSound" value="gate_chainlink_close"/>
+	<property name="LockedSound" value="gate_chainlink_locked"/>
+	<property name="CustomIcon" value="chainlinkGateDouble"/>
+	<property name="Material" value="Mwood_regularGarageDoor3x2x2"/>
+	<property name="Model" value="Entities/Buildings/chainlinkGateDoublePrefab"/>
+	<property name="MultiBlockDim" value="5,3,1"/>
+	<property name="Collide" value="movement,melee,rocket"/>
+	<property name="MaxDamage" value="10000"/>
+	<property name="MeshDamage" value="
+		Door/DMG0, 10001,
+		Door/DMG1, 10000,
+		Door/DMG2, 1250,
+		-, 1
+		"/>
+	<property class="RepairItems">
+		<property name="resourceWood" value="30"/>
+	</property>
+	<property class="UpgradeBlock">
+		<property name="ToBlock" value="NEDironGate_chainlinkGateDouble_Clean"/>
+		<property name="Item" value="NEDironGateBlockVariantHelper"/>
+		<property name="ItemCount" value="1"/>
+		<property name="UpgradeHitCount" value="5"/>
+	</property>
+	<drop event="Harvest" name="resourceWood" count="15,30" tag="allHarvest,lumberjackHarvest"/>
+	<property name="SortOrder1" value="B388"/>
+	<property name="SortOrder2" value="0003"/>
+</block>
+
+<block name="NEDwoodGate_chainlinkGateDoubleWide_Clean">
+	<property name="Extends" value="NEDwoodGate_chainlinkGateDouble_Clean" param1="Stage2Health,RepairItemsMeshDamage"/>
+	<property name="OpenSound" value="gate_chainlink_trader_open"/>
+	<property name="CloseSound" value="gate_chainlink_trader_close"/>
+	<property name="CustomIcon" value="chainlinkGateDoubleWide"/>
+	<property name="Model" value="Entities/Buildings/chainlinkGateWidePrefab"/>
+	<property name="ModelOffset" value="0,0,-0.5"/>
+	<property name="MeshDamage" value="
+		Door/DMG0, 10001,
+		Door/DMG1, 10000,
+		Door/DMG2, 1250
+		"/>
+	<property class="UpgradeBlock">
+		<property name="ToBlock" value="NEDironGate_chainlinkGateDoubleWide_Clean"/>
+		<property name="Item" value="NEDironGateBlockVariantHelper"/>
+		<property name="ItemCount" value="1"/>
+		<property name="UpgradeHitCount" value="5"/>
+	</property>
+	<property name="SortOrder2" value="0005"/>
+</block>
+
+<!-- *** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+<!-- **** NED_IRON -->
+<!-- *** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+
+	<!-- *** Gates -->
+<block name="NEDironGate_chainlinkGateDouble_Clean">
+	<property name="Extends" value="NEDironDoor_oldWoodDoor_Clean"/>
+	<property name="OpenSound" value="gate_chainlink_open"/>
+	<property name="CloseSound" value="gate_chainlink_close"/>
+	<property name="LockedSound" value="gate_chainlink_locked"/>
+	<property name="CustomIcon" value="chainlinkGateDouble"/>
+	<property name="Material" value="MmetalGarageDoor3x2x2"/>
+	<property name="Model" value="Entities/Buildings/chainlinkGateDoublePrefab"/>
+	<property name="MultiBlockDim" value="5,3,1"/>
+	<property name="Collide" value="movement,melee,rocket"/>
+	<property name="MaxDamage" value="25000"/>
+	<property name="MeshDamage" value="
+		Door/DMG0, 25001,
+		Door/DMG1, 25000,
+		Door/DMG2, 3125,
+		-, 1
+		"/>
+	<property class="RepairItems">
+		<property name="resourceForgedIron" value="30"/>
+	</property>
+	<property class="UpgradeBlock">
+		<property name="ToBlock" value="NEDsteelGate_chainlinkGateDouble_Clean"/>
+		<property name="Item" value="NEDsteelGateBlockVariantHelper"/>
+		<property name="ItemCount" value="1"/>
+		<property name="UpgradeHitCount" value="5"/>
+	</property>
+	<drop event="Harvest" name="resourceScrapIron" count="150" tag="allHarvest"/>
+	<drop event="Destroy" name="resourceScrapIron" count="0" tag="allHarvest"/>
+	<drop event="Destroy" count="0"/>
+	<property name="SortOrder1" value="B389"/>
+	<property name="SortOrder2" value="0003"/>
+</block>
+
+<block name="NEDironGate_chainlinkGateDoubleWide_Clean">
+	<property name="Extends" value="NEDironGate_chainlinkGateDouble_Clean" param1="Stage2Health,RepairItemsMeshDamage"/>
+	<property name="OpenSound" value="gate_chainlink_trader_open"/>
+	<property name="CloseSound" value="gate_chainlink_trader_close"/>
+	<property name="CustomIcon" value="chainlinkGateDoubleWide"/>
+	<property name="Model" value="Entities/Buildings/chainlinkGateWidePrefab"/>
+	<property name="ModelOffset" value="0,0,-0.5"/>
+	<property name="MeshDamage" value="
+		Door/DMG0, 25001,
+		Door/DMG1, 25000,
+		Door/DMG2, 3125
+		"/>
+	<property class="UpgradeBlock">
+		<property name="ToBlock" value="NEDsteelGate_chainlinkGateDoubleWide_Clean"/>
+		<property name="Item" value="NEDsteelGateBlockVariantHelper"/>
+		<property name="ItemCount" value="1"/>
+		<property name="UpgradeHitCount" value="5"/>
+	</property>
+	<property name="SortOrder2" value="0005"/>
+</block>
+
+<!-- *** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+<!-- **** NED_STEEL -->
+<!-- *** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+
+	<!-- *** Gates -->
+<block name="NEDsteelGate_chainlinkGateDouble_Clean">
+	<property name="Extends" value="NEDsteelDoor_oldWoodDoor_Clean"/>
+	<property name="OpenSound" value="gate_chainlink_open"/>
+	<property name="CloseSound" value="gate_chainlink_close"/>
+	<property name="LockedSound" value="gate_chainlink_locked"/>
+	<property name="CustomIcon" value="chainlinkGateDouble"/>
+	<property name="Material" value="MsteelGarageDoor3x2x2"/>
+	<property name="Model" value="Entities/Buildings/chainlinkGateDoublePrefab"/>
+	<property name="MultiBlockDim" value="5,3,1"/>
+	<property name="Collide" value="movement,melee,rocket"/>
+	<property name="MaxDamage" value="50000"/>
+	<property name="MeshDamage" value="
+		Door/DMG0, 50001,
+		Door/DMG1, 50000,
+		Door/DMG2, 6250,
+		-, 1
+		"/>
+	<property class="RepairItems">
+		<property name="resourceForgedSteel" value="30"/>
+	</property>
+	<drop event="Harvest" name="resourceScrapIron" count="1000" tag="allHarvest"/>
+	<property name="SortOrder1" value="B390"/>
+	<property name="SortOrder2" value="0003"/>
+</block>
+
+<block name="NEDsteelGate_chainlinkGateDoubleWide_Clean">
+	<property name="Extends" value="NEDsteelGate_chainlinkGateDouble_Clean" param1="Stage2Health,RepairItemsMeshDamage"/>
+	<property name="OpenSound" value="gate_chainlink_trader_open"/>
+	<property name="CloseSound" value="gate_chainlink_trader_close"/>
+	<property name="CustomIcon" value="chainlinkGateDoubleWide"/>
+	<property name="Model" value="Entities/Buildings/chainlinkGateWidePrefab"/>
+	<property name="ModelOffset" value="0,0,-0.5"/>
+	<property name="MeshDamage" value="
+		Door/DMG0, 50001,
+		Door/DMG1, 50000,
+		Door/DMG2, 6250
+		"/>
+	<property name="SortOrder2" value="0005"/>
+</block>
+
+<!-- *** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+<!-- **** NED_STEEL_POWERED -->
+<!-- *** xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+
+	<!-- *** Gates -->
+<block name="NEDsteel_PoweredGate_chainlinkGateDouble_Clean">
+	<property name="Extends" value="NEDsteel_PoweredDoor_oldWoodDoor_Clean"/>
+	<property name="OpenSound" value="gate_chainlink_open"/>
+	<property name="CloseSound" value="gate_chainlink_close"/>
+	<property name="LockedSound" value="gate_chainlink_locked"/>
+	<property name="CustomIcon" value="chainlinkGateDouble"/>
+	<property name="Material" value="MsteelGarageDoor3x2x2"/>
+	<property name="Model" value="Entities/Buildings/chainlinkGateDoublePrefab"/>
+	<property name="MultiBlockDim" value="5,3,1"/>
+	<property name="Collide" value="movement,melee,rocket"/>
+	<property name="MaxDamage" value="50000"/>
+	<property name="MeshDamage" value="
+		Door/DMG0, 50001,
+		Door/DMG1, 50000,
+		Door/DMG2, 6250,
+		-, 1
+		"/>
+	<property class="RepairItems">
+		<property name="resourceForgedSteel" value="30"/>
+	</property>
+	<drop event="Harvest" name="resourceScrapIron" count="1000" tag="allHarvest"/>
+	<property name="SortOrder1" value="B391"/>
+	<property name="SortOrder2" value="0003"/>
+</block>
+
+<block name="NEDsteel_PoweredGate_chainlinkGateDoubleWide_Clean">
+	<property name="Extends" value="NEDsteel_PoweredGate_chainlinkGateDouble_Clean" param1="Stage2Health,RepairItemsMeshDamage"/>
+	<property name="OpenSound" value="gate_chainlink_trader_open"/>
+	<property name="CloseSound" value="gate_chainlink_trader_close"/>
+	<property name="CustomIcon" value="chainlinkGateDoubleWide"/>
+	<property name="Model" value="Entities/Buildings/chainlinkGateWidePrefab"/>
+	<property name="ModelOffset" value="0,0,-0.5"/>
+	<property name="MeshDamage" value="
+		Door/DMG0, 50001,
+		Door/DMG1, 50000,
+		Door/DMG2, 6250
+		"/>
+	<property name="SortOrder2" value="0005"/>
+</block>
+</append>
+
+<!-- Append new clean doors to their respective variant helpers -->
+
+	<!-- *** Gates -->
+<append xpath="/blocks/block[@name='NEDwoodGateBlockVariantHelper']/property[@name='PlaceAltBlockValue']/@value">,NEDwoodGate_chainlinkGateDouble_Clean,NEDwoodGate_chainlinkGateDoubleWide_Clean</append>
+
+<append xpath="/blocks/block[@name='NEDironGateBlockVariantHelper']/property[@name='PlaceAltBlockValue']/@value">,NEDironGate_chainlinkGateDouble_Clean,NEDironGate_chainlinkGateDoubleWide_Clean</append>
+
+<append xpath="/blocks/block[@name='NEDsteelGateBlockVariantHelper']/property[@name='PlaceAltBlockValue']/@value">,NEDsteelGate_chainlinkGateDouble_Clean,NEDsteelGate_chainlinkGateDoubleWide_Clean</append>
+
+<append xpath="/blocks/block[@name='NEDsteel_PoweredGateBlockVariantHelper']/property[@name='PlaceAltBlockValue']/@value">,NEDsteel_PoweredGate_chainlinkGateDouble_Clean,NEDsteel_PoweredGate_chainlinkGateDoubleWide_Clean</append>
+
+</PaperSama0104>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <Name value="NED_Optional_RVR"/>
+    <DisplayName value="Not Enough Doors (Remove Vanilla Recipes)"/>
+    <Version value="1.1.0"/> 
+    <Description value="Recommended mod that removes vanilla door recipes as they are redundant with NED's recipes."/>
+    <Author value="PaperSama0104"/>
+    <Website value=""/>
+</xml>

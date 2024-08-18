@@ -1,0 +1,8 @@
+<PaperSama0104>
+
+<!-- Add powered gate variant helper to unlocked entry and recipe tag -->
+<append xpath="/progression/crafting_skills/crafting_skill[@name='craftingElectrician']/display_entry[@name_key='electricianT4']/unlock_entry/@item">,NEDsteel_PoweredGateBlockVariantHelper</append>
+
+<append xpath="/progression/crafting_skills/crafting_skill[@name='craftingElectrician']/effect_group/passive_effect[@name='RecipeTagUnlocked' and @level='75,100']/@tags">,NEDsteel_PoweredGateBlockVariantHelper</append>
+
+</PaperSama0104>
