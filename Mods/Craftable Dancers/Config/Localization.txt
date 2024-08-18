@@ -1,0 +1,7 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
+
+POISpawnerPanam,blocks,Container,,,"Stripper Panam"
+POISpawnerTifa,blocks,Container,,,"Stripper Tifa"
+POISpawnerAda,blocks,Container,,,"Stripper Ada"
+POISpawnerBlackWidow,blocks,Container,,,"Stripper Black Widow"
+POISpawnerKatia,blocks,Container,,,"Stripper Katia"

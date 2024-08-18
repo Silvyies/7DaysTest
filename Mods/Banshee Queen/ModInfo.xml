@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="BansheeQueen" />
+	<DisplayName value="Banshee Queen" />
+	<Description value="Enjoy the tiniest sample of the unique BlewBarry Farms server's overhaul with this challenging boss monster!  BlewBarryFarms.com" />
+	<Author value="Arcueid/Gray Sage" />
+	<Version value="1.1" />
+	<Website value="www.blewbarryfarms.com" />
+	<SkipWithAntiCheat value="false" />
+</xml>

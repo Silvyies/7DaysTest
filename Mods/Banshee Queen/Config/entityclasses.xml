@@ -1,0 +1,52 @@
+<configs>
+
+	<append xpath="/entity_classes">
+
+<entity_class name="zombieBansheeQueen" extends="zombieScreamer">
+			<property name="SizeScale" value="2.1"/>
+			<property name="Tags" value="entity,zombie,walker,boss,BAchiever,bansheequeen,boss" />
+			<property name="Mesh" value="@:Entities/Zombies/Prefabs/ZScreamer.prefab"/>
+			<property name="ReplaceMaterial0" value="particleeffects/models/materials/p_glass"/>
+			<property name="ReplaceMaterial1" value="entities/resources/materials/oreshaleboulder"/>
+			<property name="SoundRandom" value="Enemies/Scout_Zombie/zombiefemalescoutalert"/>
+			<property name="SoundRandomTime" value="15.0"/>	
+			<property name="SoundAlert" value=""/>
+			<property name="SoundAttack" value="Enemies/Base_Zombie_Female/zombiefemalescoutattack"/>
+			<property name="SoundHurt" value="Enemies/Base_Zombie_Female/zombiefemalescoutpain"/>
+			<property name="SoundDeath" value="Enemies/Base_Zombie_Female/zombiefemalescoutdeath"/>
+			<property name="SoundSense" value=""/>
+			<property name="ExperienceGain" value="80000"/>
+			<property name="Mass" value="1000"/>
+			<property name="Weight" value="850"/>
+			<property name="HasRagdoll" value="false"/>
+			<!-- XP strong -->
+			<property name="WalkType" value="3"/>
+			<property name="HandItem" value="meleeHandBansheeQueen"/>
+			<property name="LootDropEntityClass" value="Knap Sack"/>
+			<property name="LootDropProb" value="1"/>
+			<property name="DismemberMultiplierHead" value=".4"/><property name="DismemberMultiplierArms" value=".4"/><property name="DismemberMultiplierLegs" value=".4"/>
+			<effect_group name="Base Effects">
+				<passive_effect name="HealthMax" operation="base_set" value="10000"/>
+				<passive_effect name="HealthMax" operation="perc_set" value="1"/>
+				<triggered_effect trigger="onSelfFirstSpawn" action="AddBuff" target="self" buff="buffBansheeQueen01"/>
+				<triggered_effect trigger="onOtherDamagedSelf" action="ModifyCVar" target="self" cvar="RadiatedRegenAmount" operation="set" value="100"/>
+				<triggered_effect trigger="onOtherDamagedSelf" action="AddBuff" target="self" buff="buffRadiatedRegen"/>
+			</effect_group>
+		</entity_class>
+
+<entity_class name="Knap Sack"> <!-- 71.72 -->
+	<property name="HideInSpawnMenu" value="true"/>
+	<property name="Mesh" value="@:Entities/LootContainers/zpackPrefab.prefab"/>
+	<property name="ModelType" value="Custom"/>
+	<property name="Prefab" value="Backpack"/>
+	<property name="Class" value="EntityLootContainer"/>
+	<property name="Parent" value="Backpack"/>
+	<property name="IsEnemyEntity" value="false"/>
+	<property name="TimeStayAfterDeath" value="1200"/>
+	<property name="LootListOnDeath" value="KnapSack"/>
+	<property name="Faction" value="none"/>
+</entity_class>
+
+
+	</append>
+</configs>

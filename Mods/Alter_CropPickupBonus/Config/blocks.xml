@@ -1,0 +1,8 @@
+﻿<configs>
+	<append xpath="/blocks/block[starts-with(@name,'planted') and (contains(@name,'3Harvest')) and not (contains(@name,'Snowberry'))]">
+		<property name="Class" value="BlockCropsHarvest, CropPickupBonus"/>
+	</append>
+	<append xpath="/blocks/block[@name='mushroom01']">
+		<property name="Class" value="BlockCropsHarvest, CropPickupBonus"/>
+	</append>
+</configs>

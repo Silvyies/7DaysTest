@@ -1,0 +1,10 @@
+<configs>
+<append xpath="/lootcontainers">
+<!-- Knap Sack -->
+<lootcontainer id="998" name="KnapSack" count="4" size="6,3" destroy_on_close="false" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1">
+	<item name="resourceBone" count="10" prob="0.8"/>
+	<item name="casinoCoin" count="6000" prob="0.2"/>
+</lootcontainer>
+
+</append>
+</configs>

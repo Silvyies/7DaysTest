@@ -1,0 +1,51 @@
+<configs>
+<append xpath="/buffs">
+	
+<buff name="buffBansheeQueen01" hidden="true">
+			<duration value=".25"/>
+			<effect_group>
+				<triggered_effect trigger="onSelfBuffFinish" action="AddBuff" buff="buffBansheeQueen02"/>
+				<triggered_effect trigger="onSelfBuffStart" action="AddBuff" target="positionAOE" range="30" buff="buffBansheeQueen"/>
+			</effect_group>
+			<effect_group>
+				<triggered_effect trigger="onSelfBuffStart" action="AddBuff" target="selfAOE" range="30" buff="buffBansheeQueendegrade">
+					<requirement name="StatComparePercCurrentToMax" stat="health" operation="LTE" value=".5"/>
+				</triggered_effect>
+			</effect_group>
+		</buff>
+
+		<buff name="buffBansheeQueen02" hidden="true">
+			<duration value=".25"/>
+			<effect_group>
+				<triggered_effect trigger="onSelfBuffFinish" action="AddBuff" buff="buffBansheeQueen01"/>
+				<triggered_effect trigger="onSelfBuffStart" action="AddBuff" target="positionAOE" range="30" buff="buffBansheeQueen"/>
+			</effect_group>
+		</buff>
+
+		<buff name="buffBansheeQueen" name_key="Icy Veins" tooltip_key="Your blood feels frosty, your weiner tingles, and your hands shake" icon="ui_game_symbol_cold" icon_color="0,0,128" icon_blink="true">
+			<stack_type value="replace"/>
+			<duration value="2"/>
+			<update_rate value="1"/>
+			<effect_group>
+				<requirement name="EntityTagCompare" tags="player"/>
+				<triggered_effect trigger="onSelfBuffStart" action="ModifyScreenEffect" intensity="1" fade="2" effect_name="Cold"/>
+				<triggered_effect trigger="onSelfBuffRemove" action="ModifyScreenEffect" intensity="0" fade="1" effect_name="Cold"/>
+
+				<passive_effect name="SpreadDegreesVertical" operation="perc_add" value="25">
+				</passive_effect>
+				<passive_effect name="SpreadDegreesHorizontal" operation="perc_add" value="25">
+				</passive_effect>
+			</effect_group>
+		</buff>
+
+		<buff name="buffBansheeQueendegrade" name_key="Don't Break It!" tooltip_key="Terrified - You rashly damage your weapons in your haste" icon="ui_game_symbol_block_repair" icon_color="235,3,0" icon_blink="true">
+			<stack_type value="replace"/>
+			<duration value="15"/>
+			<effect_group>
+				<passive_effect name="DegradationPerUse" operation="base_set" value="25">
+				</passive_effect>
+			</effect_group>
+		</buff>
+
+	</append>
+</configs>

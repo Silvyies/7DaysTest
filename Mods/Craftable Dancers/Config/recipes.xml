@@ -1,0 +1,40 @@
+<configs>
+    <append xpath="/recipes">
+        <!--    Strippers Ahoy    -->
+        <recipe name="POISpawnerPanam" count="1" craft_area="chemistryStation" craft_time="15" craft_exp_gain="1000" >            
+			<ingredient name="modDyeRed" count="1"/>
+			<ingredient name="oldCash" count="69"/>
+			<ingredient name="resourceHeadlight" count="2"/>
+			<ingredient name="foodFishTacos" count="1"/>
+			<ingredient name="drugSugarButts" count="1"/>
+        </recipe>
+		<recipe name="POISpawnerTifa" count="1" craft_area="chemistryStation" craft_time="15" craft_exp_gain="1000" >
+			<ingredient name="modDyePink" count="1"/>
+			<ingredient name="oldCash" count="69"/>
+			<ingredient name="resourceHeadlight" count="2"/>
+			<ingredient name="foodFishTacos" count="1"/>
+			<ingredient name="drugSugarButts" count="1"/>
+        </recipe>
+		<recipe name="POISpawnerAda" count="1" craft_area="chemistryStation" craft_time="15" craft_exp_gain="1000" >
+			<ingredient name="modDyeYellow" count="1"/>
+			<ingredient name="oldCash" count="69"/>
+			<ingredient name="resourceHeadlight" count="2"/>
+			<ingredient name="foodFishTacos" count="1"/>
+			<ingredient name="drugSugarButts" count="1"/>
+        </recipe>
+		<recipe name="POISpawnerBlackWidow" count="1" craft_area="chemistryStation" craft_time="15" craft_exp_gain="1000" >
+			<ingredient name="modDyePurple" count="1"/>
+			<ingredient name="oldCash" count="69"/>
+			<ingredient name="resourceHeadlight" count="2"/>
+			<ingredient name="foodFishTacos" count="1"/>
+			<ingredient name="drugSugarButts" count="1"/>
+        </recipe>
+		<recipe name="POISpawnerKatia" count="1" craft_area="chemistryStation" craft_time="15" craft_exp_gain="1000" >
+			<ingredient name="modDyeBrown" count="1"/>
+			<ingredient name="oldCash" count="69"/>
+			<ingredient name="resourceHeadlight" count="2"/>
+			<ingredient name="foodFishTacos" count="1"/>
+			<ingredient name="drugSugarButts" count="1"/>
+        </recipe>
+    </append>
+</configs>

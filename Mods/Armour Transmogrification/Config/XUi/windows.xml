@@ -1,0 +1,34 @@
+﻿<windows>
+
+	<setattribute xpath="/windows/window[@name='CharacterFrameWindow']/rect/panel[@name='previewFrameSDCS']/rect/sprite" name="height">424</setattribute>
+	<setattribute xpath="/windows/window[@name='CharacterFrameWindow']/rect/panel[@name='previewFrameSDCS']/rect/texture" name="height">422</setattribute>
+
+	<remove xpath="/windows/window[@name='CharacterFrameWindow']/rect/panel[@name='equipment']" />
+
+	<insertAfter xpath="/windows/window[@name='CharacterFrameWindow']/rect/panel[@name='previewFrameSDCS']" >
+		<panel name="header" height="43" depth="1" backgroundspritename="ui_game_panel_header" width="326" pos="0,-519">
+			<sprite depth="1" name="sprBackground" sprite="ui_game_panel_header" type="sliced" pos="0,-657" color="[black]"/>
+			<sprite depth="2" name="windowicon" style="icon32px" pos="6,-6" sprite="ui_game_symbol_armor_iron"/>
+			<label depth="2" name="characterName" pos="42,-7" width="150" height="32" text="Armour" font_size="32" />
+		</panel>
+
+		<panel name="equipment" depth="10" pos="3, -567" width="292" height="70" disableautobackground="true" >
+			<grid name="inventory" rows="1" cols="4" cell_width="81" cell_height="70" controller="EquipmentStackGrid" repeat_content="true">
+				<equipment_stack_sdcs name="0"/>
+			</grid>
+		</panel>
+			
+		<panel name="header" height="43" depth="1" backgroundspritename="ui_game_panel_header" width="326" pos="0,-657">
+			<sprite depth="1" name="sprBackground" sprite="ui_game_panel_header" type="sliced" pos="0,-657" color="[black]"/>
+			<sprite depth="2" name="windowicon" style="icon32px" pos="6,-6" sprite="ui_game_symbol_armor_iron"/>
+			<label depth="2" name="characterName" pos="42,-10" width="150" height="32" text="Armour Transmog" font_size="32" />
+		</panel>
+			
+		<panel name="cosmetics" depth="10" pos="3, -705" width="292" height="70" disableautobackground="true" >
+			<grid name="cosmeticsInventory" rows="1" cols="4" cell_width="81" cell_height="70" controller="XUiC_WMMArmourTransmogrification, WMMArmourTransmogrification" repeat_content="true">
+				<equipment_stack_sdcs name="0"/>
+			</grid>
+		</panel>
+	</insertAfter>
+
+</windows>
