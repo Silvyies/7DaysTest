@@ -1,0 +1,7 @@
+<configs>
+
+<append xpath="/progression/perks/perk[@name='perkAdvancedEngineering']/effect_group">
+	<passive_effect name="ElectricalTrapXP" operation="base_set" level="1,2,3,4,5" value=".1,.2,.3,.4,.5" target="selfOtherPlayers" target_tags="ally,party" range="30"/>
+</append>
+
+</configs>

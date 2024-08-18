@@ -1,0 +1,6 @@
+<Phys1csGamez>
+
+	<set xpath="/rwgmixer/prefab_spawn_adjust[@partial_name='trader_jen']/@biomeTags">forest</set>
+	<set xpath="/rwgmixer/prefab_spawn_adjust[@partial_name='trader_rekt']/@biomeTags">burntforest</set>
+	
+</Phys1csGamez>

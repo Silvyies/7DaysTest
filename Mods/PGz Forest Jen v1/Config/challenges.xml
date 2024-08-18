@@ -1,0 +1,9 @@
+<Phys1csGamez>
+
+	<set xpath="/challenges/challenge[@name='meetRekt']/@reward_text_key">challenge_reward_1000xp</set>
+	<set xpath="/challenges/challenge[@name='meetRekt']/@description_key">challenge_reward_1000</set>
+	
+	<set xpath="/challenges/challenge[@name='meetJen']/@reward_text_key">challenge_reward_500xp</set>
+	<set xpath="/challenges/challenge[@name='meetJen']/@description_key">challenge_reward_500</set>
+	
+</Phys1csGamez>

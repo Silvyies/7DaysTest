@@ -1,0 +1,7 @@
+<Phys1csGamez>
+
+	<set xpath="/rwgmixer/township[@name='countrytown']/property[@name='biomes']/@value">forest,burntforest,desert,snow</set>
+	<set xpath="/rwgmixer/township[@name='town']/property[@name='biomes']/@value">forest,burntforest,desert,snow</set>
+	<set xpath="/rwgmixer/township[@name='city']/property[@name='biomes']/@value">forest,burntforest,desert,snow</set>
+	
+</Phys1csGamez>

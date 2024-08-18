@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xml>
+  <Name value="syth_Stats" />
+  <DisplayName value="Stats In Descriptions" />
+  <Version value="2.5" />
+  <Description value="Shows item stats on recipe descriptions" />
+  <Author value="Sythalin" />
+  <Website value="" />
+</xml>

@@ -1,0 +1,7 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+
+DoorVariant,blocks,Block,,, Base Doors,,,,
+DoorVariantDesc,blocks,Block,,,"A collection of hardened doors that can accent your building. No power required! Put the crafted block on your toolbelt, hold the Reload action and select the Shape entry from the radial menu. Click or Shift-Click to select a variant to build with.",,,,
+
+GarageDoorVariantHelper,blocks,Block,,, Garage Door Variant,,,,
+GarageDoorVariantHelperDesc,blocks,Block,,,"Craft it or destroy existing items to get a  Garage Door Variant. Put the  Garage Door Variant on your toolbelt, hold the Reload action and select the Shape entry from the radial menu. Select a door to build with!",,,,

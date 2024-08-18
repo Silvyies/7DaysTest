@@ -1,0 +1,20 @@
+<configs>
+	
+
+	<!-- 
+<set xpath="//entity_class[@name='npcTraderJen']/property[@name='Mesh']/@value">#@modfolder:Resources/SexyJen.unity3d?SexyJen</set>
+ -->
+
+<set xpath="//entity_class[@name='npcTraderJen']/property[@name='Mesh']/@value">#@modfolder:Resources/SexyJen.unity3d?SexyJenNude</set>
+
+
+
+<append xpath="//entity_class[@name='npcTraderJen']">
+    <property name="AvatarController" value="AvatarZombieController"/>    
+    <property name="ModelType" value="Standard"/>
+    <property name="HasRagdoll" value="false"/>
+    <property name="LookAtAngle" value="0"/>
+</append>
+
+
+</configs>
