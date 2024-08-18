@@ -1,0 +1,30 @@
+<Duriel>
+
+	<!-- This line adds a setting in General tab for max number of active land claim blocks for each player -->
+	<insertAfter xpath="/windows/window[@name='newContinueGame']/rect[@name='tabs']/rect[@name='tabsContents']/rect[@tab_key='xuiGameSettingsGeneral']/grid/gameoption[@name='ServerMaxPlayerCount' and @values='2, 4, 8, 16']">
+		<gameoption name="LandClaimCount" title="goLandClaimCount" value_wrap="false" value_type="int" values="1, 2, 3, 4, 5" display_names="" value_localization_prefix="goLandClaimCountValue" />
+	</insertAfter>
+
+	<!-- This line changes the options for the number of blocks for Bedroll Dead Zone => zone without respawns -->
+	<set xpath="/windows/window[@name='newContinueGame']/rect[@name='tabs']/rect[@name='tabsContents']/rect[@tab_key='xuiGameSettingsMultiplayer']/grid/gameoption[@name='BedrollDeadZoneSize']/@values">0, 5, 10, 15, 20, 30, 40, 50, 60</set>
+
+	<!-- This line changes the options for the number of blocks for Land Claim radius => zone without respawns nor overlapping of other LCB -->
+	<set xpath="/windows/window[@name='newContinueGame']/rect[@name='tabs']/rect[@name='tabsContents']/rect[@tab_key='xuiGameSettingsMultiplayer']/grid/gameoption[@name='LandClaimSize']/@values">21, 31, 41, 51, 61, 71, 81, 91, 111, 131, 151</set>
+
+	<!-- These lines add 0% 5% and 10% AI block damage option to the advanced options menu -->
+	<set xpath="/windows/window[@name='newContinueGame']/rect[@name='tabs']/rect[@name='tabsContents']/rect[@tab_key='xuiGameSettingsAdvanced']/grid/gameoption[@name='BlockDamageAI']/@values">0, 5, 10, 15, 20, 25, 33, 50, 67, 75, 100, 125, 150, 175, 200, 300</set>
+	<set xpath="/windows/window[@name='newContinueGame']/rect[@name='tabs']/rect[@name='tabsContents']/rect[@tab_key='xuiGameSettingsAdvanced']/grid/gameoption[@name='BlockDamageAIBM']/@values">0, 5, 10, 15, 20, 25, 33, 50, 67, 75, 100, 125, 150, 175, 200, 300</set>
+	
+	<!-- This line adds a 500% player damage option to the advanced options menu -->
+	<set xpath="/windows/window[@name='newContinueGame']/rect[@name='tabs']/rect[@name='tabsContents']/rect[@tab_key='xuiGameSettingsAdvanced']/grid/gameoption[@name='BlockDamagePlayer']/@values">25, 50, 75, 100, 125, 150, 175, 200, 300, 500</set>
+	
+	<!-- This line adds a 1000% player XP option to the general options menu -->
+	<set xpath="/windows/window[@name='newContinueGame']/rect[@name='tabs']/rect[@name='tabsContents']/rect[@tab_key='xuiGameSettingsGeneral']/grid/gameoption[@name='XPMultiplier']/@values">25, 50, 75, 100, 125, 150, 175, 200, 300, 400, 500, 750, 1000</set>
+		
+	<!-- This line adds a 1000% loot abundance option to the general options menu -->
+	<set xpath="/windows/window[@name='newContinueGame']/rect[@name='tabs']/rect[@name='tabsContents']/rect[@tab_key='xuiGameSettingsAdvanced']/grid/gameoption[@name='LootAbundance']/@values">25, 33, 50, 67, 75, 100, 150, 200, 300, 400, 500, 750, 1000</set>
+	
+	<!-- This line adds a 1 by 1 day air drop option to the general options menu -->
+	<set xpath="/windows/window[@name='newContinueGame']/rect[@name='tabs']/rect[@name='tabsContents']/rect[@tab_key='xuiGameSettingsBasic']/grid/gameoption[@name='AirDropFrequency']/@values">0, 24, 48, 72, 96, 120, 144, 168</set>
+	
+</Duriel>

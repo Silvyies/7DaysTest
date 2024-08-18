@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+	<setAttribute xpath="//window[@name='windowBackpack']//button[@name='btnToggleLockMode']" name="defaultcolor">[iconColor]</setAttribute>
+	<setAttribute xpath="//window[@name='windowBackpack']//button[@name='btnToggleLockMode']" name="hovercolor">[deep_limeGreen]</setAttribute>
+	<setAttribute xpath="//window[@name='windowBackpack']//button[@name='btnToggleLockMode']" name="selectedcolor">[deep_limeGreen]</setAttribute>
+</configs>

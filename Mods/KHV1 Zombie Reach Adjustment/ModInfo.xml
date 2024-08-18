@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="KHV1_Zombie_Reach_Adjustment" />
+	<DisplayName value="KHV1 Zombie Reach Adjustment" />
+	<Description value="This mod reduces zombie reach so they aren't slapping you outside of spear range.  FNS was given permission by Khaine, the original author, to recreate this mod on Nexus.  Khaine did the work, all credit is rightly his." />
+	<Author value="FlufferNutterSandwich" />
+	<Version value="1.0.0.1" />
+	<Website value="" />
+</xml>

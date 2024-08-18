@@ -1,0 +1,29 @@
+<!-- MoreArmorPlates-->
+<configs>
+
+<!-- ARMOR PLATING LOOT GROUPS -->
+
+<append xpath="lootcontainers/lootgroup[@name='modArmorT3']">
+	<item name="modArmorPlatingPE"/>
+	<item name="modArmorPlatingSiC"/>
+</append>
+
+<append xpath="lootcontainers/lootgroup[@name='modArmorT2']">
+	<item name="modArmorPlatingTitanium"/>
+</append>
+
+<append xpath="lootcontainers/lootgroup[@name='modArmorT1']">
+	<item name="modArmorPlatingSteel"/>
+</append>
+
+<!-- ARMOR PLATING SCHEMAITCS LOOT GROUPS -->
+
+<append xpath="lootcontainers/lootgroup[@name='schematicsModsAndGeneralT2']">
+	<item name="modArmorPlatingSteelSchematic"/>
+	<item name="modArmorPlatingTitaniumSchematic"/>
+	<item name="modArmorPlatingPESchematic"/>
+	<item name="modArmorPlatingSiCSchematic"/>
+</append>
+	
+
+</configs>

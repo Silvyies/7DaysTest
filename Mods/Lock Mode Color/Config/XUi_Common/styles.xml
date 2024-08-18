@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+	<append xpath="//global">
+		<style_entry name="deep_limeGreen" value="52,255,128,255" />
+	</append>
+</configs>

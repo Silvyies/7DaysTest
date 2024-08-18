@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<configs>
+
+    <append xpath="/blocks/block[contains(@name,'treePlantedOak') and not (@name='treePlantedOak1m')]">
+        <property name="DowngradeBlock" value="treePlantedOak1m"/>
+        <property name="FallOver" value="false"/>
+    </append>
+
+    <append xpath="/blocks/block[contains(@name,'treePlantedMountainPine') and not (@name='treePlantedMountainPine1m')]">
+        <property name="DowngradeBlock" value="treePlantedMountainPine1m"/>
+        <property name="FallOver" value="false"/>
+    </append>
+
+    <append xpath="/blocks/block[contains(@name,'treePlantedWinterPine') and not (@name='treePlantedWinterPine1m')]">
+        <property name="DowngradeBlock" value="treePlantedWinterPine1m"/>
+        <property name="FallOver" value="false"/>
+    </append>    
+
+</configs>

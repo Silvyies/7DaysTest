@@ -1,0 +1,35 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context
+
+modArmorPlatingSteel,items,Ammo,,,Steel Armor Plating,,
+modArmorPlatingSteelDesc,items,Ammo,,,"This Steel Plating will offer moderate protection against most types of damage.",,
+
+modArmorPlatingSteelSchematic,items,Ammo,,,"Steel Armor Plating Schematic",,
+
+modArmorPlatingTitanium,items,Ammo,,,Titanium Armor Plating,,
+modArmorPlatingTitaniumDesc,items,Ammo,,,"This Titanium Plating will offer quite a lot of protection against most types of damage.",,
+
+modArmorPlatingTitaniumSchematic,items,Ammo,,,"Titanium Armor Plating Schematic",,
+
+modArmorPlatingPE,items,Ammo,,,Polyethylene Armor Plating,,
+modArmorPlatingPEDesc,items,Ammo,,,"Polyethylene is among the strongest plastic materials, commonly used as armor plating in the law enforcement and military before the fall.",,
+
+modArmorPlatingPESchematic,items,Ammo,,,"Polyethylene Armor Plating Schematic",,
+
+modArmorPlatingSiC,items,Ammo,,,Silicon Carbide Armor Plating,,
+modArmorPlatingSiCDesc,items,Ammo,,,"Silicon Carbide is among the strongest compounds known to man, which before the fall was extremely rare, mostly being mass produced in synthetic form. It's many applications included the manufacturing of armor plating.",,
+
+modArmorPlatingSiCSchematic,items,Ammo,,,"Silicon Carbide Plating Schematic",,
+
+resourceTitanium,items,Ammo,,,Titanium Alloy,,
+resourceTitaniumDesc,items,Ammo,,,"Used in the crafting of armor plates",,
+
+resourcePE,items,Ammo,,,Polyethylene Sheets,,
+resourcePEDesc,items,Ammo,,,"Used in the crafting of armor plates",,
+
+resourceSiC,items,Ammo,,,Silicon Carbide,,
+resourceSiCDesc,items,Ammo,,,"Used in the crafting of armor plates",,
+
+
+
+
+

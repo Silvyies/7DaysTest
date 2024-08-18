@@ -1,0 +1,7 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+
+mmGoLandClaimCount,,,Main Menu Game Options,KgNone,Land Claim Amount,,Landanspruchsbetrag,Landanspruchsbetrag,Nombre de revendications,Cantidad de reclamo de tierra,,,土地主張ブロックの数,,,,,,,,Cantidad de reclamo de tierra
+goLandClaimCount,,UI,Menu,KgNone,Claim Amount,,Anspruchsbetrag,Anspruchsbetrag,Nombre de blocs de revendication,Reclamar cantidad,,,主張範囲,,,,,,,Reclamar cantidad,
+goLandClaimCountDesc,,UI,Menu,KgNone,The amount of land claim blocks a player can have active.,,"Die Menge der Landanspruchsblöcke, die ein Spieler aktiv haben kann.","Die Anzahl der Landanspruchsblöcke, die ein Spieler aktiv haben kann.",Le nombre de revendications territoriales actives qu'un joueur peut avoir en même temps.,La cantidad de bloques de reclamo de tierra que un jugador puede tener activo.,,,,プレイヤーがアクティブにできる土地主張ブロックの数,,,,,,,La cantidad de bloques de reclamo de tierra que un jugador puede tener activo
+goLandClaimCountValue,,UI,Menu,KgNone,{0} block,,{0} blockieren,{0} Block,{0} bloc,Bloques: {0},,,,主張ブロック,,,,,,,
+goLandClaimCountValues,,UI,Menu,KgNone,{0} blocks,,{0} Blöcke,{0} Blöcke,{0} blocs,Bloques: {0},,,,主張ブロック,,,,,,,

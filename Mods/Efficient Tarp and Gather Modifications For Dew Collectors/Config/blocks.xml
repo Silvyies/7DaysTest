@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<configs>
+  <!-- Tarp Inserted Into Dew Collector -->
+  <set xpath="/blocks/block[@name='cntDewCollector']/property[@name='ModdedConvertCount']/@value">4</set> <!-- Default 2 -->
+
+  <!-- Gather Inserted Into Dew Collector -->
+  <set xpath="/blocks/block[@name='cntDewCollector']/property[@name='ModdedConvertSpeed']/@value">4</set> <!-- Default 2 -->
+</configs>

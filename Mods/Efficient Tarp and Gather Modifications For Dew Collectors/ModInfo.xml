@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+  <Name value="EfficientDewCollectorUpgrades" />
+  <DisplayName value="Efficient Tarp and Gather Modifications For Dew Collectors" />
+  <Version value="1.0" />    
+  <Description value="Increases the Tarp modification efficiency from 2 jars to 4 jars per slot and increased the Gather modification speed from 2x to 4x for dew collectors ." />
+  <Author value="napalm1" />
+  <Website value="" />
+</xml>

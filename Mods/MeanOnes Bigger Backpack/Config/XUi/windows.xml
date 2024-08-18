@@ -1,0 +1,15 @@
+<configs>
+
+	<set xpath="/windows/window[@name='windowBackpack']/@width">673</set>
+
+
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='content']/@height">370</set>
+
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='content']/sprite[@name='backgroundMain']/@width">673</set>
+
+
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='content']/grid[@name='inventory']/@rows">5</set>
+
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='content']/grid[@name='inventory']/@cols">10</set>
+
+</configs>
