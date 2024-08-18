@@ -1,0 +1,18 @@
+<Servers>
+  <ServerGroup Name="Silvyis1">
+    <Server Name="Silvyis1" Logo="">
+      <Description>7D2D from the perspective of a Prepper.
+	  
+Features Include:
+	  </Description>
+        <Version>1.0</Version>
+		<RSS/>
+        <Excludes></Excludes>
+        <ReleaseNotes></ReleaseNotes>
+        <Discord></Discord>
+        <Donate></Donate>
+        <DownloadMode>Clone</DownloadMode>
+      <Downloads><Download></Download></Downloads>   
+    </Server>
+  </ServerGroup>
+</Servers>
