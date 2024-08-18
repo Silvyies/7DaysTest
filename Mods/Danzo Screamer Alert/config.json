@@ -1,0 +1,11 @@
+{
+  "SpawnScoutsVolume": 0.5,
+  "SpawnHordeNearVolume": 0.5,
+  "WanderingHordeVolume": 0.5,
+  "SpawnScoutsSound": "siren-12418-rework",
+  "SpawnHordeNearSound": "halloween-impact-05-93808",
+  "WanderingHordeSound": "biodynamic-impact-braam-tonal-dark-184276",
+  "CustomAlerts": false,
+  "CustomAlertSoundsFile": "CustomAlertSounds.unity3d",
+  "UseServerConfig": false
+}
